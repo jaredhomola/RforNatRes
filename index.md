@@ -1,7 +1,7 @@
 ## Welcome to R for Natural Resources
 ### University of Wisconsin-Stevens Point NRES 775
 
-Instructor: Dr. Jared Homola  
+Instructor: Dr. Jared Homola  <br>
 Contact: jhomola@uwsp.edu  
 Office: 163 Trainer Natural Resources Building (USGS Fish Coop Office)  
 Classroom: 356 Trainer Natural Resources Building  
