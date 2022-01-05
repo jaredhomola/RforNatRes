@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to R for Natural Resources
+### University of Wisconsin-Stevens Point NRES 775
 
-You can use the [editor on GitHub](https://github.com/jaredhomola/RforNatRes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Instructor: Dr. Jared Homola
+Contact: jhomola@uwsp.edu
+Office: 163 Trainer Natural Resources Building (USGS Fish Coop Office)
+Classroom: 356 Trainer Natural Resources Building
+Time: Monday and Wednesday 9:30-10:45am
+Format: Monday lectures and Wednesday labs. Labs will involve hands-on instruction with a homework assignment to follow
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### To use this website
+This website will be updates each week with lecture slides, required readings, homeworks, and other optional online resources
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
