@@ -11,7 +11,7 @@ Instructor: Dr. Jared Homola
 This website will be updates each week with lecture slides, required readings, homeworks, and other optional online resources  
 
 ### Course resources
-[Syllabus](main/R_programming_for_biologists_syllabus_2022.pdf)
+[Syllabus](main/R_programming_for_biologists_syllabus_2022.pdf)  
 [R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
 [Big Book of R](https://www.bigbookofr.com/)  
 
