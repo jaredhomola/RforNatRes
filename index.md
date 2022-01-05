@@ -1,12 +1,12 @@
 ## Welcome to R for Natural Resources
 ### University of Wisconsin-Stevens Point NRES 775
 
-Instructor: Dr. Jared Homola
-Contact: jhomola@uwsp.edu
-Office: 163 Trainer Natural Resources Building (USGS Fish Coop Office)
-Classroom: 356 Trainer Natural Resources Building
-Time: Monday and Wednesday 9:30-10:45am
-Format: Monday lectures and Wednesday labs. Labs will involve hands-on instruction with a homework assignment to follow
+Instructor: Dr. Jared Homola  
+Contact: jhomola@uwsp.edu  
+Office: 163 Trainer Natural Resources Building (USGS Fish Coop Office)  
+Classroom: 356 Trainer Natural Resources Building  
+Time: Monday and Wednesday 9:30-10:45am  
+Format: Monday lectures and Wednesday labs. Labs will involve hands-on instruction with a homework assignment to follow  
 
 ### To use this website
 This website will be updates each week with lecture slides, required readings, homeworks, and other optional online resources
