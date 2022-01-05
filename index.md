@@ -12,9 +12,14 @@ This website will be updates each week with lecture slides, required readings, h
 
 ### Course resources
 [R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
-[Big Book of R](https://www.bigbookofr.com/)
+[Big Book of R](https://www.bigbookofr.com/)  
 
 ## Week 1
+Lab computers already have R and RStudio but you may want to install it on your personal computer.  
+[Download R](https://cran.cnr.berkeley.edu/)  
+[Download R Studio](https://rstudio.com/products/rstudio/download/#download)  
+
+
 
 
 ```markdown
