@@ -15,9 +15,9 @@ This website will be updates each week with lecture slides, required readings, h
 [R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
 [Big Book of R](https://www.bigbookofr.com/)  
 
-## Week 1: Intro & R basics I
+# Week 1: Intro & R basics I
 ### Topics
-- Course format|Objects and actions in R  
+- Course format, Objects and actions in R  
 
 ### Resources
 Lab computers already have R and RStudio but you may want to install it on your personal computer.  
@@ -26,9 +26,9 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ### Assignments
 
-## Week 2: R basics II
+# Week 2: R basics II
 ### Topics
-- Data types|finding help| oding etiquette  
+- Data types, finding help, coding etiquette  
 
 ### Resources
 [How to Be a Better Web Searcher: Secrets from Google Scientists](https://blogs.scientificamerican.com/observations/how-to-be-a-better-web-searcher-secrets-from-google-scientists/)  
@@ -36,7 +36,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 ### Assignments
 
 
-## Week 3: Intro to the Tidyverse
+# Week 3: Intro to the Tidyverse
 ### Topics
 
 ### Resources
@@ -44,7 +44,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 ### Assignments
 
 
-## Week 4: Data wrangling I
+# Week 4: Data wrangling I
 ### Topics
 
 ### Resources
@@ -52,7 +52,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 ### Assignments
 
 
-## Week 5: Data wrangling II
+# Week 5: Data wrangling II
 ### Topics
 
 ### Resources
@@ -60,7 +60,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 ### Assignments
 
 
-## Week 6: Writing functions
+# Week 6: Writing functions
 ### Topics
 
 ### Resources
@@ -68,7 +68,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 ### Assignments
 
 
-## Week 7
+# Week 7
 ### Topics
 
 ### Resources
