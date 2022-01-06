@@ -17,7 +17,7 @@ This website will be updates each week with lecture slides, required readings, h
 
 ## Week 1: Intro & R basics I
 ### Topics
-- Course format | Objects and actions in R  
+- Course format|Objects and actions in R  
 
 ### Resources
 Lab computers already have R and RStudio but you may want to install it on your personal computer.  
@@ -28,7 +28,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ## Week 2: R basics II
 ### Topics
-- Data types | finding help | coding etiquette  
+- Data types|finding help| oding etiquette  
 
 ### Resources
 [How to Be a Better Web Searcher: Secrets from Google Scientists](https://blogs.scientificamerican.com/observations/how-to-be-a-better-web-searcher-secrets-from-google-scientists/)  
