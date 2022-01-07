@@ -7,9 +7,6 @@
 **Time:** Monday and Wednesday 9:30-10:45am  
 **Format:** Monday lectures and Wednesday labs. Labs will involve hands-on instruction with a homework assignment to follow  
 
-### To use this website
-This website will be updates each week with lecture slides, required readings, homeworks, and other optional online resources  
-
 ### Course resources
 [Syllabus](R_programming_for_biologists_syllabus_2022.pdf)  
 [R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
