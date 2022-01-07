@@ -15,6 +15,9 @@ This website will be updates each week with lecture slides, required readings, h
 [R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
 [Big Book of R](https://www.bigbookofr.com/)  
 
+### Note on sharing primary literature
+Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this platform. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, you'll be able to find an option to save the file as a pdf that you can print or read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
+
 <br><br>
 
 # Week 1: Intro & R basics I
@@ -25,12 +28,15 @@ This website will be updates each week with lecture slides, required readings, h
 Lab computers already have R and RStudio but you may want to install it on your personal computer.  
 [Download R](https://repo.miserver.it.umich.edu/cran/)  
 [Download R Studio](https://rstudio.com/products/rstudio/download/#download) - Get the .exe for Windows or .dmg for Mac  
-[R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)
+[R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)  
+[Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
 [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)
 
 ### Assignments for next week
 - Mon: [R for Data Science: Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
-- Wed: Homework assignment 1
+- Mon: [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
+- Mon: [Wildlife biology, big data, and reproducible research - Lewis et al. 2018](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/wsb.847)  
+- Wed: Homework assignment 1  
 
 <br><br>
 
