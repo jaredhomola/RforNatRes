@@ -26,11 +26,11 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 ### Resources for this week's topics
 Lab computers already have R and RStudio but you may want to install it on your personal computer.  
-[Download R](https://repo.miserver.it.umich.edu/cran/)  
-[Download R Studio](https://rstudio.com/products/rstudio/download/#download) - Get the .exe for Windows or .dmg for Mac  
-[R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)  
-[Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
-[Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)
+- [Download R](https://repo.miserver.it.umich.edu/cran/)  
+- [Download R Studio](https://rstudio.com/products/rstudio/download/#download) - Get the .exe for Windows or .dmg for Mac  
+- [R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)  
+- [Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
+- [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)
 
 ### Assignments for next week
 - Mon: [R for Data Science: Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
