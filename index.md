@@ -25,14 +25,15 @@ This website will be updates each week with lecture slides, required readings, h
 Lab computers already have R and RStudio but you may want to install it on your personal computer.  
 [Download R](https://repo.miserver.it.umich.edu/cran/)  
 [Download R Studio](https://rstudio.com/products/rstudio/download/#download) - Get the .exe for Windows or .dmg for Mac  
+[R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)
 [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)
 
 ### Assignments for next week
-- Mon: [R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)
 - Mon: [R for Data Science: Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
 - Wed: Homework assignment 1
-  
-  
+
+<br><br>
+
 # Week 2: R basics II
 ### Topics
 - Data types, finding help, coding etiquette  
@@ -42,15 +43,18 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ### Assignments for next week
 
+<br><br>
 
 # Week 3: Intro to the Tidyverse
 ### Topics
 
 ### Resources
 [Tidyverse style guide](https://style.tidyverse.org/index.html)
+[Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E)
 
 ### Assignments
 
+<br><br>
 
 # Week 4: Data wrangling I
 ### Topics
@@ -59,6 +63,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ### Assignments
 
+<br><br>
 
 # Week 5: Data wrangling II
 ### Topics
@@ -67,6 +72,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ### Assignments
 
+<br><br>
 
 # Week 6: Writing functions
 ### Topics
@@ -75,6 +81,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ### Assignments
 
+<br><br>
 
 # Week 7
 ### Topics
@@ -83,100 +90,92 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ### Assignments
 
+<br><br>
 
-## Week 8
+# Week 8
 ### Topics
 
 ### Resources
 
 ### Assignments
 
+<br><br>
 
-## Week 9
+# Week 9
 ### Topics
 
 ### Resources
 
 ### Assignments
 
+<br><br>
 
-## Week 10
+# Week 10
 ### Topics
 
 ### Resources
 
 ### Assignments
 
+<br><br>
 
-## Week 11
+# Week 11
 ### Topics
 
 ### Resources
 
 ### Assignments
 
+<br><br>
 
-## Week 12
+# Week 12
 ### Topics
 
 ### Resources
 
 ### Assignments
 
+<br><br>
 
-## Week 13
+# Week 13
 ### Topics
 
 ### Resources
 
 ### Assignments
 
+<br><br>
 
-## Week 14
+# Week 14
 ### Topics
 
 ### Resources
 
 ### Assignments
 
+<br><br>
 
-## Week 15
+# Week 15
 ### Topics
 
 ### Resources
 
 ### Assignments
 
+<br><br>
 
-## Week 16
+# Week 16
 ### Topics
 
 ### Resources
 
 ### Assignments
 
+<br><br>
 
-## Week 17
+# Week 17
 ### Topics
 
 ### Resources
 
 ### Assignments
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
