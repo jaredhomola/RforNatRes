@@ -15,7 +15,7 @@ This website will be updates each week with lecture slides, required readings, h
 [R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
 [Big Book of R](https://www.bigbookofr.com/)  
 
-<br/><br/>
+<br><br>
 
 # Week 1: Intro & R basics I
 ### Topics
@@ -25,11 +25,11 @@ This website will be updates each week with lecture slides, required readings, h
 Lab computers already have R and RStudio but you may want to install it on your personal computer.  
 [Download R](https://repo.miserver.it.umich.edu/cran/)  
 [Download R Studio](https://rstudio.com/products/rstudio/download/#download) - Get the .exe for Windows or .dmg for Mac  
-[Christian Genco - You should learn to program](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)
+[Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)
 
 ### Assignments for next week
 - Mon: [R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)
-- Mon: 
+- Mon: [R for Data Science: Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
 - Wed: Homework assignment 1
   
   
