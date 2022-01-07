@@ -14,30 +14,32 @@ This website will be updates each week with lecture slides, required readings, h
 [Syllabus](R_programming_for_biologists_syllabus_2022.pdf)  
 [R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
 [Big Book of R](https://www.bigbookofr.com/)  
-
+  
+  
 # Week 1: Intro & R basics I
 ### Topics
 - Course format, Objects and actions in R  
 
-### Resources
+### Resources for this week's topics
 Lab computers already have R and RStudio but you may want to install it on your personal computer.  
 [Download R](https://repo.miserver.it.umich.edu/cran/)  
 [Download R Studio](https://rstudio.com/products/rstudio/download/#download) - Get the .exe for Windows or .dmg for Mac  
+[Christian Genco - You should learn to program](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)
 
-### Assignments
+### Assignments for next week
 - Mon: [R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)
 - Mon: 
 - Wed: Homework assignment 1
-
-
+  
+  
 # Week 2: R basics II
 ### Topics
 - Data types, finding help, coding etiquette  
 
-### Resources
+### Resources for this week's topics
 [How to Be a Better Web Searcher: Secrets from Google Scientists](https://blogs.scientificamerican.com/observations/how-to-be-a-better-web-searcher-secrets-from-google-scientists/)  
 
-### Assignments
+### Assignments for next week
 
 
 # Week 3: Intro to the Tidyverse
