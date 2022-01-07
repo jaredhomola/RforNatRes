@@ -1,4 +1,4 @@
-## University of Wisconsin-Stevens Point NRES 775
+# University of Wisconsin-Stevens Point NRES 775
 
 **Instructor:** Dr. Jared Homola  
 **Contact:** jhomola@uwsp.edu  
@@ -25,6 +25,10 @@ Lab computers already have R and RStudio but you may want to install it on your 
 [Download R Studio](https://rstudio.com/products/rstudio/download/#download) - Get the .exe for Windows or .dmg for Mac  
 
 ### Assignments
+- Mon: [R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)
+- Mon: 
+- Wed: Homework assignment 1
+
 
 # Week 2: R basics II
 ### Topics
@@ -40,6 +44,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 ### Topics
 
 ### Resources
+[Tidyverse style guide](https://style.tidyverse.org/index.html)
 
 ### Assignments
 
