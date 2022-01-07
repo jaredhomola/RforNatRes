@@ -14,8 +14,9 @@ This website will be updates each week with lecture slides, required readings, h
 [Syllabus](R_programming_for_biologists_syllabus_2022.pdf)  
 [R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
 [Big Book of R](https://www.bigbookofr.com/)  
-  
-  
+
+<br/><br/>
+
 # Week 1: Intro & R basics I
 ### Topics
 - Course format, Objects and actions in R  
