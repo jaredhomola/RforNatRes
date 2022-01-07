@@ -1,4 +1,4 @@
-# University of Wisconsin-Stevens Point NRES 775
+# UW-Stevens Point NRES 775
 
 **Instructor:** Dr. Jared Homola  
 **Contact:** jhomola@uwsp.edu  
