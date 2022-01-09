@@ -31,6 +31,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ### Assignments for next week
 - Mon: [R for Data Science: Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
+- Mon: [Advanced R style guide - Hadley Wickham](http://adv-r.had.co.nz/Style.html)
 - Mon: [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
 - Mon: [Wildlife biology, big data, and reproducible research - Lewis et al. 2018](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/wsb.847)  
 - Wed: Homework assignment 1  
@@ -43,8 +44,11 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ### Resources for this week's topics
 [How to Be a Better Web Searcher: Secrets from Google Scientists](https://blogs.scientificamerican.com/observations/how-to-be-a-better-web-searcher-secrets-from-google-scientists/)  
+[Google's R style guide](https://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html)
 
 ### Assignments for next week
+- Mon: [Tidy Data - Hadley Wickham](https://www.jstatsoft.org/article/view/v059i10)  
+- Wed: Homework assignment 2
 
 <br><br>
 
