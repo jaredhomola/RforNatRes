@@ -31,7 +31,6 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 ### Assignments for next week
 - Mon: [R for Data Science: Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
-- Mon: [Advanced R style guide - Hadley Wickham](http://adv-r.had.co.nz/Style.html)
 - Mon: [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
 - Mon: [Wildlife biology, big data, and reproducible research - Lewis et al. 2018](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/wsb.847)  
 - Wed: Homework assignment 1  
