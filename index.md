@@ -54,134 +54,150 @@ Lab computers already have R and RStudio but you may want to install it on your 
 # Week 3: Intro to the Tidyverse
 ### Topics
 
-### Resources
+### Resources for this week's topics
 [Tidyverse style guide](https://style.tidyverse.org/index.html)
 [Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E)
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 3
 
 <br><br>
 
 # Week 4: Data wrangling I
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 4
 
 <br><br>
 
 # Week 5: Data wrangling II
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 5
 
 <br><br>
 
 # Week 6: Writing functions
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 6
 
 <br><br>
 
 # Week 7
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 7
 
 <br><br>
 
 # Week 8
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 8
 
 <br><br>
 
 # Week 9
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 9
 
 <br><br>
 
 # Week 10
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 10
 
 <br><br>
 
 # Week 11
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 11
 
 <br><br>
 
 # Week 12
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 12
 
 <br><br>
 
 # Week 13
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 13
 
 <br><br>
 
 # Week 14
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 14
 
 <br><br>
 
 # Week 15
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 15
 
 <br><br>
 
 # Week 16
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 16
 
 <br><br>
 
 # Week 17
 ### Topics
 
-### Resources
+### Resources for this week's topics
 
-### Assignments
+### Assignments for next week
+- Wed: Homework assignment 17
+
