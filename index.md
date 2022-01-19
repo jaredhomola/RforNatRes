@@ -16,6 +16,7 @@
 Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this platform. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, you'll be able to find an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
 
 <br><br>
+# **Section I: Intro to Coding in R**
 
 # Week 1: Intro & R basics I
 ### Topics
@@ -88,7 +89,8 @@ Joining and summarizing data
 <br><br>
 
 # Week 6: Writing functions
-### Topics
+### Topics  
+Development of functions
 
 ### Resources for this week's topics
 
@@ -96,8 +98,8 @@ Joining and summarizing data
 - Wed: Homework assignment 6
 
 <br><br>
-
-# Week 7
+# **Section II: Data Exploration and Visualization**
+# Week 7: Data exploration I  
 ### Topics
 
 ### Resources for this week's topics
@@ -107,8 +109,8 @@ Joining and summarizing data
 
 <br><br>
 
-# Week 8
-### Topics
+# Week 8: Data exploration II 
+### Topics 
 
 ### Resources for this week's topics
 
@@ -117,7 +119,11 @@ Joining and summarizing data
 
 <br><br>
 
-# Week 9
+# Week 9: Spring Break  
+
+<br><br>
+
+# Week 10: Data Visualization I  
 ### Topics
 
 ### Resources for this week's topics
@@ -127,17 +133,7 @@ Joining and summarizing data
 
 <br><br>
 
-# Week 10
-### Topics
-
-### Resources for this week's topics
-
-### Assignments for next week
-- Wed: Homework assignment 10
-
-<br><br>
-
-# Week 11
+# Week 11: Data Visualization II  
 ### Topics
 
 ### Resources for this week's topics
@@ -147,8 +143,9 @@ Joining and summarizing data
 
 <br><br>
 
-# Week 12
+# Week 12: Data Visualization III  
 ### Topics
+Building maps, basic GIS  
 
 ### Resources for this week's topics
 
@@ -156,8 +153,8 @@ Joining and summarizing data
 - Wed: Homework assignment 12
 
 <br><br>
-
-# Week 13
+# **Section III: Statistical applications**
+# Week 13: Basic Regression
 ### Topics
 
 ### Resources for this week's topics
