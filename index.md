@@ -23,22 +23,22 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - Course format, Objects and actions in R  
 
 ### Resources for this week's topics
-Lab computers already have R and RStudio but you may want to install it on your personal computer.  
-- [Download R](https://repo.miserver.it.umich.edu/cran/)  
+- [Download R](https://repo.miserver.it.umich.edu/cran/) Install R before RStudio  
 - [Download R Studio](https://rstudio.com/products/rstudio/download/#download)  
 - [R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)  
 - [Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
-- [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)
+- [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)  
+- Week 1 slides: Monday and Wednesday  
 
 ### Assignments for next week
-- Mon: [R for Data Science: Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
+- Mon: [R for Data Science - Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
 - Mon: [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
 - Mon: [Wildlife biology, big data, and reproducible research - Lewis et al. 2018](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/wsb.847)  
 - Wed: Homework assignment 1  
 
 <br><br>
 
-# Week 2: R basics II
+## Week 2: R basics II
 ### Topics
 - Data types, finding help, coding etiquette  
 
@@ -52,7 +52,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 
 <br><br>
 
-# Week 3: Intro to the Tidyverse
+## Week 3: Intro to the Tidyverse
 ### Topics  
 Tidyverse: Who, What, Why??  
 
@@ -65,7 +65,7 @@ Tidyverse: Who, What, Why??
 
 <br><br>
 
-# Week 4: Data wrangling I
+## Week 4: Data wrangling I
 ### Topics  
 Subsetting, modifying, and reshaping data  
 
@@ -77,7 +77,7 @@ Subsetting, modifying, and reshaping data
 
 <br><br>
 
-# Week 5: Data wrangling II
+## Week 5: Data wrangling II
 ### Topics  
 Joining and summarizing data  
 
@@ -88,7 +88,7 @@ Joining and summarizing data
 
 <br><br>
 
-# Week 6: Writing functions
+## Week 6: Writing functions
 ### Topics  
 Development of functions
 
@@ -99,7 +99,7 @@ Development of functions
 
 <br><br>
 # **Section II: Data Exploration and Visualization**
-# Week 7: Data exploration I  
+## Week 7: Data exploration I  
 ### Topics
 
 ### Resources for this week's topics
@@ -109,7 +109,7 @@ Development of functions
 
 <br><br>
 
-# Week 8: Data exploration II 
+## Week 8: Data exploration II 
 ### Topics 
 
 ### Resources for this week's topics
@@ -119,11 +119,11 @@ Development of functions
 
 <br><br>
 
-# Week 9: Spring Break  
+## Week 9: Spring Break  
 
 <br><br>
 
-# Week 10: Data Visualization I  
+## Week 10: Data Visualization I  
 ### Topics
 
 ### Resources for this week's topics
@@ -133,7 +133,7 @@ Development of functions
 
 <br><br>
 
-# Week 11: Data Visualization II  
+## Week 11: Data Visualization II  
 ### Topics
 
 ### Resources for this week's topics
@@ -143,7 +143,7 @@ Development of functions
 
 <br><br>
 
-# Week 12: Data Visualization III  
+## Week 12: Data Visualization III  
 ### Topics
 Building maps, basic GIS  
 
@@ -154,7 +154,7 @@ Building maps, basic GIS
 
 <br><br>
 # **Section III: Statistical applications**
-# Week 13: Basic Regression
+## Week 13: Basic Regression
 ### Topics
 
 ### Resources for this week's topics
@@ -164,7 +164,7 @@ Building maps, basic GIS
 
 <br><br>
 
-# Week 14
+## Week 14
 ### Topics
 
 ### Resources for this week's topics
@@ -174,7 +174,7 @@ Building maps, basic GIS
 
 <br><br>
 
-# Week 15
+## Week 15
 ### Topics
 
 ### Resources for this week's topics
@@ -184,7 +184,7 @@ Building maps, basic GIS
 
 <br><br>
 
-# Week 16
+## Week 16
 ### Topics
 
 ### Resources for this week's topics
@@ -194,7 +194,7 @@ Building maps, basic GIS
 
 <br><br>
 
-# Week 17
+## Week 17
 ### Topics
 
 ### Resources for this week's topics
