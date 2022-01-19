@@ -52,7 +52,8 @@ Lab computers already have R and RStudio but you may want to install it on your 
 <br><br>
 
 # Week 3: Intro to the Tidyverse
-### Topics
+### Topics  
+Tidyverse: Who, What, Why??  
 
 ### Resources for this week's topics
 [Tidyverse style guide](https://style.tidyverse.org/index.html)  
@@ -64,9 +65,11 @@ Lab computers already have R and RStudio but you may want to install it on your 
 <br><br>
 
 # Week 4: Data wrangling I
-### Topics
+### Topics  
+Subsetting, modifying, and reshaping data  
 
 ### Resources for this week's topics
+[Tidyverse Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)  
 
 ### Assignments for next week
 - Wed: Homework assignment 4
@@ -74,7 +77,8 @@ Lab computers already have R and RStudio but you may want to install it on your 
 <br><br>
 
 # Week 5: Data wrangling II
-### Topics
+### Topics  
+Joining and summarizing data  
 
 ### Resources for this week's topics
 
