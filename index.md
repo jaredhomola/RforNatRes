@@ -18,7 +18,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 <br><br>
 # **Section I: Intro to Coding in R**
 
-# Week 1: Intro & R basics I
+## Week 1: Intro & R basics I
 ### Topics
 - Course format, Objects and actions in R  
 
