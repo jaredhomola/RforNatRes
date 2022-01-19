@@ -5,7 +5,7 @@
 **Office:** 163 Trainer Natural Resources Building (USGS Fish Coop Office)  
 **Classroom:** 356 Trainer Natural Resources Building  
 **Time:** Monday and Wednesday 9:30-10:45am  
-**Format:** Monday lectures and Wednesday labs. Labs will involve hands-on instruction with a homework assignment to follow  
+**Format:** Monday lectures and Wednesday labs. Labs will involve hands-on instruction with a homework assignment to follow.  
 
 ### Course resources
 [Syllabus](R_programming_for_biologists_syllabus_2022.pdf)  
@@ -24,7 +24,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 ### Resources for this week's topics
 Lab computers already have R and RStudio but you may want to install it on your personal computer.  
 - [Download R](https://repo.miserver.it.umich.edu/cran/)  
-- [Download R Studio](https://rstudio.com/products/rstudio/download/#download) - Get the .exe for Windows or .dmg for Mac  
+- [Download R Studio](https://rstudio.com/products/rstudio/download/#download)  
 - [R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)  
 - [Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
 - [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)
@@ -46,7 +46,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 [Google's R style guide](https://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html)
 
 ### Assignments for next week
-- Mon: [Tidy Data - Hadley Wickham](https://www.jstatsoft.org/article/view/v059i10)  
+- Mon: [Tidy Data - Hadley Wickham](https://www.jstatsoft.org/article/view/v059i10) - Paper available with "paper" link near middle of webpage.  
 - Wed: Homework assignment 2
 
 <br><br>
@@ -55,7 +55,7 @@ Lab computers already have R and RStudio but you may want to install it on your 
 ### Topics
 
 ### Resources for this week's topics
-[Tidyverse style guide](https://style.tidyverse.org/index.html)
+[Tidyverse style guide](https://style.tidyverse.org/index.html)  
 [Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E)
 
 ### Assignments for next week
