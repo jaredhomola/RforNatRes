@@ -120,7 +120,7 @@ When and how to write a function, purrr
 
 <br><br>
 
-## Week 9: Spring Break  
+## Week 9: Spring Break!  
 
 <br><br>
 
