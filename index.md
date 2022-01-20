@@ -61,7 +61,9 @@ Tidyverse: Who, What, Why??
 [Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E)
 
 ### Assignments for next week
+- Mon: [Tidyverse blog](https://www.tidyverse.org/blog/) - Read one of the dozens of blog posts here and prepare to report out on it to the class. Dig deep throughout the 21 pages of posts!  
 - Wed: Homework assignment 3
+- 
 
 <br><br>
 
@@ -90,7 +92,7 @@ Joining and summarizing data
 
 ## Week 6: Writing functions
 ### Topics  
-Development of functions
+When and how to write a function, purrr 
 
 ### Resources for this week's topics
 
@@ -98,8 +100,7 @@ Development of functions
 - Wed: Homework assignment 6
 
 <br><br>
-# **Section II: Data Exploration and Visualization**
-## Week 7: Data exploration I  
+## Week 7: Advanced Tidyverse  
 ### Topics
 
 ### Resources for this week's topics
@@ -108,8 +109,8 @@ Development of functions
 - Wed: Homework assignment 7
 
 <br><br>
-
-## Week 8: Data exploration II 
+# **Section II: Data Exploration and Visualization**
+## Week 8: Exploratory analyses 
 ### Topics 
 
 ### Resources for this week's topics
@@ -125,6 +126,7 @@ Development of functions
 
 ## Week 10: Data Visualization I  
 ### Topics
+Intro to ggplot, basic plot types  
 
 ### Resources for this week's topics
 
@@ -134,7 +136,8 @@ Development of functions
 <br><br>
 
 ## Week 11: Data Visualization II  
-### Topics
+### Topics  
+Advanced ggplot   
 
 ### Resources for this week's topics
 
