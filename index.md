@@ -29,7 +29,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - [Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
 - [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)  
 - [Rmarkdown cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf)  
-- Week 1 slides: Monday and Wednesday  
+- Week 1 slides: [Monday](1_R_basics.pdf) and Wednesday  
 
 ### Assignments for next week
 - Mon: [R for Data Science - Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
