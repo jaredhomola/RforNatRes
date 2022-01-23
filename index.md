@@ -13,7 +13,7 @@
 [Big Book of R](https://www.bigbookofr.com/)  
 
 ### Note on accessing primary literature
-Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this platform. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, you'll be able to find an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
+Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this website. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, there will be an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
 
 <br><br>
 # **Section I: Intro to Coding in R**
