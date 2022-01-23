@@ -5,7 +5,7 @@
 **Office:** 163 Trainer Natural Resources Building (USGS Fish Coop Office)  
 **Classroom:** 356 Trainer Natural Resources Building  
 **Time:** Monday and Wednesday 9:30-10:45am  
-**Format:** Monday lectures and Wednesday labs. Labs will involve hands-on instruction with a homework assignment to follow.  
+**Format:** Monday lectures and Wednesday labs.  
 
 ### Course resources
 [Syllabus](R_programming_for_biologists_syllabus_2022.pdf)  
