@@ -29,10 +29,10 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - [Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
 - [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)  
 - [Rmarkdown cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf)  
-- Week 1 slides: [Monday](1_R_basics.pdf) and Wednesday  
+- Week 1 slides: [Monday](1_R_basics.pdf) and [Wednesday](1_R_basics - Wed.pdf)  
 
 ### Assignments for next week
 - Mon: [R for Data Science - Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
 - Mon: [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
 - Mon: [Wildlife biology, big data, and reproducible research - Lewis et al. 2018](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/wsb.847)  
-- Wed: Homework assignment 1  
+- Wed: [Homework assignment 1](lastName_Homework1.Rmd)  
