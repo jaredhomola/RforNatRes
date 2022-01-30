@@ -17,6 +17,23 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 <br><br>
 # **Section I: Intro to Coding in R**
+## Week 2: R basics II  
+### Topics  
+- Data types, finding help, coding etiquette, workflows  
+
+### Resources for this week's topics
+- [How to Be a Better Web Searcher: Secrets from Google Scientists](https://blogs.scientificamerican.com/observations/how-to-be-a-better-web-searcher-secrets-from-google-scientists/)  
+- [Google's R style guide](https://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html)  
+- [Real world implications of working with data in Excel](https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england)  
+- Week 2 slides: [Monday](2_DataTypesHelpEtiquette.pdf) and Wednesday  
+
+### Assignments for next week
+- Mon: [Tidy Data - Hadley Wickham](https://www.jstatsoft.org/article/view/v059i10) - Paper available with "paper" link near middle of webpage. Note: Only sections 1-3 are assigned.  
+- Mon: [Britsh Ecological Society - Guide to Reproducible Code in Ecology and Evolution](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) Note: You can skip "version control" section   
+- Wed: Homework assignment 2  
+
+<br><br>
+
 
 ## Week 1: Intro & R basics I
 ### Topics
