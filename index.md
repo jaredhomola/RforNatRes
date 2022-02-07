@@ -19,7 +19,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 # **Section I: Intro to Coding in R**
 ## Week 3: Intro to the Tidyverse
 ### Topics  
-Tidyverse: Who, What, Why??  
+- Tidyverse: Who, What, Why??  
 
 ### Resources for this week's topics
 - [Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E) Note: Watching this lecture is strongly recommended  
