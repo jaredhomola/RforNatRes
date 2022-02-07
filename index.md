@@ -17,6 +17,23 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 <br><br>
 # **Section I: Intro to Coding in R**
+## Week 3: Intro to the Tidyverse
+### Topics  
+Tidyverse: Who, What, Why??  
+
+### Resources for this week's topics
+[Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E) Note: Watching this lecture is strongly recommended  
+[Tidyverse style guide](https://style.tidyverse.org/index.html)  
+[Tidyverse blog](https://www.tidyverse.org/blog/)  
+- Week 3 slides: [Monday](3_IntroToTidyverse.pdf) and Wednesday  
+
+### Assignments for next week
+- Mon: [How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0)  
+- Mon: [This Stack Exchange thread on code sharing](https://academia.stackexchange.com/questions/134338/will-a-paper-be-retracted-if-a-flaw-in-released-software-code-invalidates-its-ce)  
+- Wed: Homework assignment 3  
+
+<br><br>
+
 ## Week 2: R basics II  
 ### Topics  
 - Data types, finding help, coding etiquette, workflows  
