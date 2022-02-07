@@ -22,9 +22,9 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 Tidyverse: Who, What, Why??  
 
 ### Resources for this week's topics
-[Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E) Note: Watching this lecture is strongly recommended  
-[Tidyverse style guide](https://style.tidyverse.org/index.html)  
-[Tidyverse blog](https://www.tidyverse.org/blog/)  
+- [Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E) Note: Watching this lecture is strongly recommended  
+- [Tidyverse style guide](https://style.tidyverse.org/index.html)  
+- [Tidyverse blog](https://www.tidyverse.org/blog/)  
 - In class exercises for [Monday](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/InClass_Wk3_Mon.R) and Wednesday
 - Week 3 slides: [Monday](3_IntroToTidyverse.pdf) and Wednesday  
 
