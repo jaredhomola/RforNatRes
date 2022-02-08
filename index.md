@@ -26,7 +26,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - [Tidyverse style guide](https://style.tidyverse.org/index.html)  
 - [Tidyverse blog](https://www.tidyverse.org/blog/)  
 - In class exercises for [Monday](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/InClass_Wk3_Mon.R) and Wednesday
-- Week 3 slides: [Monday](3_IntroToTidyverse.pdf) and Wednesday  
+- Week 3 slides: [Monday](3_IntroToTidyverse.pdf) and [Wednesday](3_IntroToTidyverse.pdf)    
 
 ### Assignments for next week
 - Mon: [How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0)  
