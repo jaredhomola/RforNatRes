@@ -31,7 +31,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 ### Assignments for next week
 - Mon: [How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0)  
 - Mon: [This Stack Exchange thread on code sharing](https://academia.stackexchange.com/questions/134338/will-a-paper-be-retracted-if-a-flaw-in-released-software-code-invalidates-its-ce)  
-- Wed: Homework assignment 3  
+- Wed: [Homework assignment 3](lastName_Homework3.Rmd)   
 
 <br><br>
 
