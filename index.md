@@ -19,7 +19,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 # **Section I: Intro to Coding in R**
 ## Week 4: Data wrangling I
 ### Topics  
-Subsetting, modifying, and reshaping data  
+Subsetting and summarizing data  
 
 ### Resources for this week's topics
 [Tidyverse Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)  
