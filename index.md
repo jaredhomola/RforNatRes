@@ -17,6 +17,22 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 <br><br>
 # **Section I: Intro to Coding in R**
+## Week 4: Data wrangling I
+### Topics  
+Subsetting, modifying, and reshaping data  
+
+### Resources for this week's topics
+[Tidyverse Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)  
+[Book chapter with further dplyr exercises](https://link.springer.com/chapter/10.1007/978-3-030-39643-5_11)  
+[Wrangling section from R for Data Science](https://r4ds.had.co.nz/wrangle-intro.html)  
+- Week 4 slides: [Monday](4_DataWranglingI_Mon.pdf) and Wednesday   
+
+### Assignments for next week
+- Mon: Read [this Katie Laskowski](https://laskowskilab.faculty.ucdavis.edu/2020/01/29/retractions/) and [this Daniel Bolnick](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html) blog post about an ongoing data integrity incident  
+- Wed: Homework assignment 4  
+
+<br><br>
+
 ## Week 3: Intro to the Tidyverse
 ### Topics  
 - Tidyverse: Who, What, Why??  
