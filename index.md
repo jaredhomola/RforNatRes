@@ -25,7 +25,7 @@ Subsetting and summarizing data
 - [Tidyverse Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)  
 - [Book chapter with further dplyr exercises](https://link.springer.com/chapter/10.1007/978-3-030-39643-5_11)  
 - [Wrangling section from R for Data Science](https://r4ds.had.co.nz/wrangle-intro.html)  
-- Week 4 slides: [Monday](4_DataWranglingI_Mon.pdf) and Wednesday   
+- [Week 4 slides] (4_DataWranglingI_Mon.pdf) 
 - In class exericses for [Monday](Wk4_InClass_Mon.R) and [Wednesday](Wk4_InClass_Wed.R)  
 
 ### Assignments for next week
