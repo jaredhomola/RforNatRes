@@ -26,6 +26,7 @@ Subsetting and summarizing data
 - [Book chapter with further dplyr exercises](https://link.springer.com/chapter/10.1007/978-3-030-39643-5_11)  
 - [Wrangling section from R for Data Science](https://r4ds.had.co.nz/wrangle-intro.html)  
 - Week 4 slides: [Monday](4_DataWranglingI_Mon.pdf) and Wednesday   
+- In class exericses for [Monday](Wk4_InClass_Mon.R) and [Wednesday](Wk4_InClass_Wed.R)  
 
 ### Assignments for next week
 - Mon: Read [this Katie Laskowski](https://laskowskilab.faculty.ucdavis.edu/2020/01/29/retractions/) and [this Daniel Bolnick](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html) blog post about an ongoing data integrity incident  
