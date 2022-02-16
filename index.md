@@ -30,7 +30,7 @@ Subsetting and summarizing data
 
 ### Assignments for next week
 - Mon: Read [this Katie Laskowski](https://laskowskilab.faculty.ucdavis.edu/2020/01/29/retractions/) and [this Daniel Bolnick](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html) blog post about an ongoing data integrity incident  
-- Wed: Homework assignment 4  
+- Wed: [Homework assignment 4](lastName_Homework4.Rmd)    
 
 <br><br>
 
