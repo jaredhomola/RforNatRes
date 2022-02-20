@@ -8,7 +8,7 @@
 **Format:** Monday lectures and Wednesday labs.  
 
 ### Course resources
-[Syllabus](R_programming_for_biologists_syllabus_2022.pdf)  
+[Syllabus](R_programming_for_nat_res_syllabus_2022.pdf)  
 [R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
 [Big Book of R](https://www.bigbookofr.com/)  
 
