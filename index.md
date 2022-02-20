@@ -44,7 +44,7 @@ Subsetting and summarizing data
 
 ### Assignments for next week
 - Mon: Read [this Katie Laskowski](https://laskowskilab.faculty.ucdavis.edu/2020/01/29/retractions/) and [this Daniel Bolnick](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html) blog post about an ongoing data integrity incident  
-- Wed: [Homework assignment 4](lastName_Homework4.Rmd)    
+- Wed: [Homework assignment 4](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework4.Rmd)    
 
 <br><br>
 
@@ -62,7 +62,7 @@ Subsetting and summarizing data
 ### Assignments for next week
 - Mon: [How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0)  
 - Mon: [This Stack Exchange thread on code sharing](https://academia.stackexchange.com/questions/134338/will-a-paper-be-retracted-if-a-flaw-in-released-software-code-invalidates-its-ce)  
-- Wed: [Homework assignment 3](lastName_Homework3.Rmd)   
+- Wed: [Homework assignment 3](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework3.Rmd)   
 
 <br><br>
 
@@ -79,7 +79,7 @@ Subsetting and summarizing data
 ### Assignments for next week
 - Mon: [Tidy Data - Hadley Wickham](https://www.jstatsoft.org/article/view/v059i10) - Paper available with "paper" link near middle of webpage. Note: Only sections 1-3 are assigned.  
 - Mon: [Britsh Ecological Society - Guide to Reproducible Code in Ecology and Evolution](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) Note: You can skip "version control" section   
-- Wed: [Homework assignment 2](Homework2.Rmd)  
+- Wed: [Homework assignment 2](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/Homework2.Rmd)  
 
 <br><br>
 
