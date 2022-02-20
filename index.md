@@ -101,4 +101,4 @@ Subsetting and summarizing data
 - Mon: [R for Data Science - Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
 - Mon: [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
 - Mon: [Wildlife biology, big data, and reproducible research - Lewis et al. 2018](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/wsb.847)  
-- Wed: [Homework assignment 1](lastName_Homework1.Rmd)  
+- Wed: [Homework assignment 1](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework1.Rmd)  
