@@ -17,6 +17,20 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 <br><br>
 # **Section I: Intro to Coding in R**
+## Week 5: Data wrangling II
+### Topics  
+Joining and modifying data  
+
+### Resources for this week's topics
+- [R for Data Science: Relational Data](https://r4ds.had.co.nz/relational-data.html) Strongly recommended  
+- [Week 5 slides](5_DataWranglingII.pdf)  
+
+### Assignments for next week  
+- Mon: [Situating Ecology as a Big-Data Science: Current Advances, Challenges, and Solutions](https://academic.oup.com/bioscience/article/68/8/563/5049569?)  
+- Wed: Homework assignment 5  
+
+<br><br>
+
 ## Week 4: Data wrangling I
 ### Topics  
 Subsetting and summarizing data  
