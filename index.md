@@ -24,6 +24,7 @@ Joining and modifying data
 ### Resources for this week's topics
 - [R for Data Science: Relational Data](https://r4ds.had.co.nz/relational-data.html) Strongly recommended  
 - [Tidy Data Tutor](https://tidydatatutor.com/)  
+- In class exercises for [Monday](Wk5_inClass_Mon_online.R)  
 - [Week 5 slides](5_DataWranglingII.pdf)  
 
 ### Assignments for next week  
