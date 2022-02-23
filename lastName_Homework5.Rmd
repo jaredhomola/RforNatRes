@@ -1,0 +1,63 @@
+---
+title: "Homework 5"
+author: "firstName lastName"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document: default
+  pdf_document: default
+---
+  
+```{r, echo = FALSE, message = FALSE, eval = FALSE}
+### Set up you workspace with the necessary data and packages
+list.of.packages <- c("remotes", "tidyverse") ## Vector of required packages for the assignment
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[, "Package"])] ## Check to see if these packages are installed
+if(length(new.packages))
+  install.packages(new.packages) ## Install the packages that aren't installed
+library(remotes)
+
+install_github("lter/lterdatasampler", force = FALSE) ## Install a package that isn't on CRAN
+```
+
+
+REMINDERS:  
+- Unless otherwise requested, be sure to set up your R Markdown document to display only the resulting tibbles and the code used to generate them (unless otherwise requested). No errors or messages should print.    
+- Tibbles appearing in your knitted document should be presented using kableExtra.  
+- Remember to add your name in the YAML header.  
+
+
+**Question 1**   
+Question 1a. Generate two new tibbles from the lterdatasample::knz_bison dataset. The tibbles you generate should have the following characteristics:  
+
+Tibble 1 should contain all the observations in the full knz_bison dataset. It should have only the variables named animal_code and animal_sex. Each animal should appear only once. Name this tibble "bisonSex."  
+
+Tibble 2 should contain a random sample of 20% of the observations in knz_bison. It should have the following variables: rec_year, rec_month, rec_day, animal_code. Names this tibble "bisonObs."   
+
+Do not print these tibbles in your knitted document.    
+```{r}
+# Answer 1a
+
+```
+
+Question 1b.  
+Use the bisonSex and bisonObs tibbles that you created to determine the number of bison of each sex recorded in each month of each year in bisonObs. Create a new variable that replaces the rec_month variable in your resulting dataset with the full names of the months (e.g., 2 = February).  
+```{r}
+# Answer 1b
+
+```
+
+
+**Question 2**    
+Use the full lterdatasampler::knz_bison dataset to determine the average bison weight at each age for each sex. Calculate age as the rec_year minus the animal_yob. Your resulting tibble should contain no NAs and your mean weights should be rounded to 2 decimal places.      
+```{r}
+# Answer 2
+
+```
+
+
+**Question 3**  
+The lterdatasampler::and_vertebrates dataset includes counts of three species detected during surveys of Mack Creek in the Andrews Forest Long Term Ecological Research Station located in Oregon's western Cascade Range. Lump the two species of salamander together and then calculate the average and standard deviation of the weight for fish and for salamanders for each year of the data set when weights were recorded. Your final tibble should contain no NAs and your final weights and standard deviations should be rounded to two decimal places.      
+```{r}
+# Answer 3
+
+```
+
