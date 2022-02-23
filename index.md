@@ -24,12 +24,12 @@ Joining and modifying data
 ### Resources for this week's topics
 - [R for Data Science: Relational Data](https://r4ds.had.co.nz/relational-data.html) Strongly recommended  
 - [Tidy Data Tutor](https://tidydatatutor.com/)  
-- In class exercises for [Monday](Wk5_inClass_Mon_online.R)  
+- In class exercises for [Monday](Wk5_inClass_Mon_online.R) and [Wednesday](inClass_wk5_Wed.R)  
 - [Week 5 slides](5_DataWranglingII.pdf)  
 
 ### Assignments for next week  
 - Mon: [Situating Ecology as a Big-Data Science: Current Advances, Challenges, and Solutions](https://academic.oup.com/bioscience/article/68/8/563/5049569?)  
-- Wed: Homework assignment 5  
+- Wed: [Homework assignment 5](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework5.Rmd)   
 
 <br><br>
 
