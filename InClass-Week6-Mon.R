@@ -59,6 +59,3 @@ stringr::sentences
 # Mutate strings 
 
 # Regular expressions
-stringr::sentences %>% 
-  as_tibble() %>% 
-  mutate(excitedVersion = str_replace(value, "\\.", "\\!"))
