@@ -17,6 +17,30 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 <br><br>
 # **Section I: Intro to Coding in R**
+## Week 6: Additional Tidyverse packages
+### Topics  
+Various additional Tidyverse packages 
+
+### Resources for this week's topics  
+- (forcats cheat sheet)[https://raw.githubusercontent.com/rstudio/cheatsheets/main/factors.pdf]  
+- (lubridate cheat sheet)[https://rawgit.com/rstudio/cheatsheets/main/lubridate.pdf]  
+- (stringr cheat sheet)[https://raw.githubusercontent.com/rstudio/cheatsheets/main/strings.pdf]  
+- (R for data science: Dates and Times)[https://r4ds.had.co.nz/dates-and-times.html]  
+- (R for data science: Strings)[https://r4ds.had.co.nz/strings.html]  
+- (R for data science: Factors)[https://r4ds.had.co.nz/factors.html]  
+- (Week 6 slides)[6_AdditionalTidyversePackages.pdf]  
+- In class exercises for (Monday)[InClass-Week6-Mon.R] and Wednesday  
+
+### Assignments for next week  
+- Mon: Lead discussion of programmings topics. Define, explain use cases in natural resources context, discuss in R context, develop a discussion question   
+	- Group 1- Macayla, Everett, Dakota, Dan: Algorithms  
+	- Group 2- Eric, Jordan, Alicia: Loops  
+	- Group 3- Ben, Jeremy, AnaSara: Functional programming  
+	- Group 4- Keenan, Becca, Andrew: Object-oriented programming  
+- Wed: Homework assignment 6  
+
+<br><br>
+
 ## Week 5: Data wrangling II
 ### Topics  
 Joining and modifying data  
