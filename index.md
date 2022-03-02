@@ -25,7 +25,7 @@ Various additional Tidyverse packages
 - Cheat sheets for [forcats](https://raw.githubusercontent.com/rstudio/cheatsheets/main/factors.pdf), [lubridate](https://rawgit.com/rstudio/cheatsheets/main/lubridate.pdf), and [stringr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/strings.pdf)  
 - R for data science chapters on [Dates and Times](https://r4ds.had.co.nz/dates-and-times.html), [Strings](https://r4ds.had.co.nz/strings.html), and [Factors](https://r4ds.had.co.nz/factors.html)  
 - [Week 6 slides](6_AdditionalTidyversePackages.pdf)  
-- In class exercises for [Monday](InClass-Week6-Mon.R) and Wednesday  
+- In class exercises for [Monday](InClass-Week6-Mon.R)    
 
 ### Assignments for next week  
 - Mon: Lead discussion of programmings topics. Define, explain use cases in natural resources context, discuss in R context, develop a discussion question   
@@ -33,7 +33,7 @@ Various additional Tidyverse packages
 	- **Loops**: Eric, Jordan, Alicia (Group 2)    
 	- **Functional programming**: Ben, Jeremy, AnaSara (Group 3)    
 	- **Object-oriented programming**: Keenan, Becca, Andrew (Group 4)    
-- Wed: Homework assignment 6  
+- Wed: [Homework assignment 6](lastName_Homework6.Rmd)  
 
 <br><br>
 
