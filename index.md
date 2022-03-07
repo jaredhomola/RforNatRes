@@ -31,7 +31,7 @@ Writing functions and loops
 	- **Tidyverse lifecycles**: Ben, Dakota, Eric, Keenan: [Hadley Wickham | Maintaining the house the tidyverse built](https://www.youtube.com/watch?v=izFssYRsLZs&t)  
 	- **Additional RMarkdown features**: Jordan, Andrew, AnaSara, Jeremy: [Rob Hyndman rstudio | How Rmarkdown changed my life](https://www.youtube.com/watch?v=_D-ux3MqGug) and [Yihui Xie | One R Markdown Document, Fourteen Demos](https://www.youtube.com/watch?v=qLEkUjxk7e8)   
 
-- Wed: Midterm homework  
+- Wed: Midterm homework, due March 27 at 11:59pm    
 
 <br><br>
 
