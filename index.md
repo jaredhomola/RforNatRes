@@ -25,7 +25,7 @@ Writing functions and loops
 - Week 7 [slides](IteratingI.pdf)  
 - In class exercises for [Monday](Wk7_In_class_monday.R)     
 
-### Assignments for next week
+### Assignments for next week  
 - Mon: Lead discussion of talk topics   
 	- **Debugging:** Macayla, Becca, Everett, Dan, Alicia   
 		- [Jenny Bryan | Object of type ‘closure’ is not subsettable](https://www.youtube.com/watch?v=vgYS-F8opgE)    
