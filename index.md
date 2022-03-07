@@ -27,11 +27,11 @@ Writing functions and loops
 
 ### Assignments for next week
 - Lead discussion of talks    
-	- Group 1: Debugging; Macayla, Becca, Everett, Dan, Alicia: [Jenny Bryan | Object of type ‘closure’ is not subsettable](https://www.youtube.com/watch?v=vgYS-F8opgE)  
-	- Group 2: Tidyverse lifecycles; Ben, Dakota, Eric, Keenan: [Hadley Wickham | Maintaining the house the tidyverse built](https://www.youtube.com/watch?v=izFssYRsLZs&t)  
-	- Group 3: Additional RMarkdown features; Jordan, Andrew, AnaSara, Jeremy: [Rob Hyndman rstudio | How Rmarkdown changed my life](https://www.youtube.com/watch?v=_D-ux3MqGug) and [Yihui Xie | One R Markdown Document, Fourteen Demos](https://www.youtube.com/watch?v=qLEkUjxk7e8)   
+	- **Debugging**: Macayla, Becca, Everett, Dan, Alicia: [Jenny Bryan | Object of type ‘closure’ is not subsettable](https://www.youtube.com/watch?v=vgYS-F8opgE)  
+	- **Tidyverse lifecycles**: Ben, Dakota, Eric, Keenan: [Hadley Wickham | Maintaining the house the tidyverse built](https://www.youtube.com/watch?v=izFssYRsLZs&t)  
+	- **Additional RMarkdown features**: Jordan, Andrew, AnaSara, Jeremy: [Rob Hyndman rstudio | How Rmarkdown changed my life](https://www.youtube.com/watch?v=_D-ux3MqGug) and [Yihui Xie | One R Markdown Document, Fourteen Demos](https://www.youtube.com/watch?v=qLEkUjxk7e8)   
 
-- Wed: Homework assignment 7  
+- Wed: Midterm homework  
 
 <br><br>
 
