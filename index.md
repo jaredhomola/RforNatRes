@@ -23,7 +23,7 @@ Writing functions and loops
 ### Resources for this week's topics  
 - R for data science chapters on [Functions](https://r4ds.had.co.nz/functions.html#functions) and [Iteration](https://r4ds.had.co.nz/iteration.html)  
 - Week 7 [slides](IteratingI.pdf)  
-- In class exercises for [Monday](Wk7_In_class_monday.R)    
+- In class exercises for [Monday](Wk7_In_class_monday.R)     
 
 ### Assignments for next week
 - Lead discussion of talks    
