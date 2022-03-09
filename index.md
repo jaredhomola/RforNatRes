@@ -35,7 +35,7 @@ Writing functions and loops
 		- [Rob Hyndman rstudio: How Rmarkdown changed my life](https://www.youtube.com/watch?v=_D-ux3MqGug)  
 		- [Yihui Xie: One R Markdown Document, Fourteen Demos](https://www.youtube.com/watch?v=qLEkUjxk7e8)   
 
-- Wed: Midterm homework, due March 27 at 11:59pm    
+- [Midterm homework, due March 27 at 11:59pm](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_midterm.Rmd)    
 
 <br><br>
 
