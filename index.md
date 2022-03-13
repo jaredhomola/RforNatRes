@@ -17,6 +17,21 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 <br><br>
 # **Section I: Intro to Coding in R**
+## Week 8: Iterating II 
+### Topics 
+Interation using the purrr package
+
+### Resources for this week's topics  
+- [Rebecca Barter's Learn to Purrr](https://www.rebeccabarter.com/blog/2019-08-19_purrr/)   
+- [purrr cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/purrr.pdf)   
+- [Week 8 slides](Wk8_purrr.pdf)   
+- [Week 8 in class exercises](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/Wk8_inClass.R)   
+
+### Assignments for after spring break (From guest lecturer, Dr. Bobby Davis)  
+- Mon: Read/Skim [Franzblau and Chung](https://doi.org/10.1016/j.jhsa.2011.12.041), [Annesley](https://academic.oup.com/clinchem/article/56/8/1229/5622228?login=false), and [Woolston](https://www.nature.com/articles/nature.2014.15999)    
+- Mon: Find papers from your expertise area (i.e., papers you’re reading for your thesis) or other papers that you have read that have a graph you consider well made and a graph you think is difficult to read.  Be prepared to discuss why you feel this way with your group, and have the URLs ready so your group can take screenshots of the graphs you want to discuss.   
+<br><br>
+
 ## Week 7: Iterating I  
 ### Topics   
 Writing functions and loops  
