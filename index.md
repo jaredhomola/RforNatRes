@@ -26,7 +26,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 Intro to ggplot, basic plot types  
 
 ### Resources for this week's topics  
-- [Week 9 slides](wk9_Intro to ggplot.pdf)  
+- [Week 9 slides](wk9_Intro_to_ggplot.pdf)  
 - [metadigitize in class image](https://github.com/jaredhomola/RforNatRes/blob/gh-pages/Class.example.meta.digitize.JPG)  
 - [Textbook for ggplot2](https://ggplot2-book.org/index.html)  
 - [R color palettes](https://www.datanovia.com/en/blog/top-r-color-palettes-to-know-for-great-data-visualization/)  
