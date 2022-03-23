@@ -16,6 +16,29 @@
 Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this website. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, there will be an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
 
 <br><br>
+# **Section II: Data Visualization**
+
+<br><br>
+
+## Week 9: Data Visualization I  
+### Guest Lecturer: Dr. Bobby Davis  
+### Topics  
+Intro to ggplot, basic plot types  
+
+### Resources for this week's topics  
+- [Week 9 slides](wk9_Intro to ggplot.pdf)  
+- [metadigitize in class image](https://github.com/jaredhomola/RforNatRes/blob/gh-pages/Class.example.meta.digitize.JPG)  
+- [Textbook for ggplot2](https://ggplot2-book.org/index.html)  
+- [R color palettes](https://www.datanovia.com/en/blog/top-r-color-palettes-to-know-for-great-data-visualization/)  
+- [ggthemes examples](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggthemes/)  
+- [Color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)  
+- [R color names](http://applied-r.com/r-color-tables/)  
+
+### Assignments for next week
+- Wed: Homework assignment 7  
+<br><br>
+
+
 # **Section I: Intro to Coding in R**
 ## Week 8: Iterating II 
 ### Topics 
