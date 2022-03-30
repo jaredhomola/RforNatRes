@@ -34,7 +34,7 @@ Intro to ggplot, basic plot types
 - [R color names](http://applied-r.com/r-color-tables/)  
 
 ### Assignments for next week
-- [Wed: Homework assignment 8](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework8.Rmd)   
+- [Wed: Homework assignment 8](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework8.Rmd), [Figured for homework assignment](homework.image.meta.digitize.JPG)   
 - Mon: A reading from Edward Tufte will be distributed via email  
 - Mon: Read Tufte's [Wikipedia page](https://en.wikipedia.org/wiki/Edward_Tufte)  
 <br><br>
