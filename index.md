@@ -34,7 +34,7 @@ Intro to ggplot, basic plot types
 - [R color names](http://applied-r.com/r-color-tables/)  
 
 ### Assignments for next week
-- Wed: Homework assignment 7  
+- [Wed: Homework assignment 8](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_midterm.Rmd)   
 <br><br>
 
 
