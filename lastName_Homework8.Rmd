@@ -1,0 +1,99 @@
+---
+title: "Homework 8"
+author: "firstName lastName"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document: default
+  pdf_document: default
+---
+  
+```{r, echo = FALSE, message = FALSE, eval = FALSE}
+### Set up you workspace with the necessary data and packages
+list.of.packages <- c("remotes", "tidyverse" , "metaDigitise", "carData") ## Vector of required packages for the assignment
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[, "Package"])] ## Check to see if these packages are installed
+if(length(new.packages))
+  install.packages(new.packages) ## Install the packages that aren't installed
+library(remotes)
+
+install_github("lter/lterdatasampler", force = FALSE) ## Install a package that isn't on CRAN
+```
+
+
+REMINDERS:  
+- Unless otherwise requested, be sure to set up your R Markdown document to display only the resulting tibbles and the code used to generate them (unless otherwise requested). No errors or messages should print.    
+- Tibbles appearing in your knitted document should be presented using kableExtra.  
+- Remember to add your name in the YAML header.  
+- Direct questions on this assignment to both Jared (jhomola@uwsp.edu) and Bobby (bdavis@uwsp.edu).  
+
+
+**Question 0**. Choose a theme from the ggplot2 themes or ggthemes and set your session. Discuss in the below why you chose that theme and what aesthetically you find appealing about it.  
+  
+Answer 0:  
+
+
+**Question 1a**. With the starwars dataset in ggplot2, create new variables called BMI (use the formula BMI = weight/((height/100))^2), and age at the beginning of the latest trilogy, which is 34 years after the Battle of Yavin, (birth_year is in BBY, which is Before Battle of Yavin). With the new variables, plot the relationship between BMI and Age.     
+```{r}
+# Answer 1a
+
+```
+
+**Question 1b**. Update the graph so that it does not show the outliers and you can see the cloud of data more clearly. Does it appear there is a relationship?   
+```{r}
+# Answer 1b
+
+```
+
+**Question 2**. Create a new categorical variable for species that includes humans, droids, and lumps all other species into an "other" category. (HINT: use a function in the forcats package). Use one of the exploratory geom types (e.g., violin plot, boxplot, etc.) to visualize the distribution of age by species class.        
+```{r}
+# Answer 2
+
+```
+
+**Question 3a**. Update the graph from Question 1b by using your new factor variable to distinguish species class on the plot. What aesthetic (or combinations) did you use and why?   
+```{r}
+# Answer 3a
+
+```
+
+**Question 3b**. Update the graph from question 3a with a manual color scale where humans are a shade of green, droids are a shade of gray, and the "other" category is a shade of orange.  
+```{r}
+# Answer 3b
+
+```
+
+**Question 3c**. Add one regression line to the graph in 3b showing the relationship between age and BMI, regardless of group.  Without running the model, do you think there is a significant relationship between age and BMI of starwars characters? HINT: in order to override the grouping aesthetic you will have to add a command to the geom that adds the regression line.  
+```{r}
+# Answer 3c
+
+```
+
+**Question 4a**. With the pottery dataset we used in class, create a new tibble that includes the means and standard deviations by site. Plot the mean element concentration by site so that the average total element concentration in the pots by site are in one bar (i.e., a stacked bar graph). Represent each element with a different color. 
+```{r}
+# Answer 4a
+
+```
+
+**Question 4b**. Plot the means of each element in a separate plot by site with error bars showing the standard deviation, color the bars by site, and replace the Site names with abbreviations. HINT: All the plots can be made in one ggplot...maybe by using facet_wrap... 
+```{r}
+# Answer 4b
+
+```
+
+
+**Question 5a**. Daniel Pauly is a pretty smart guy, so it's ok to pick on him. In the paper "Fishing Down Marine Food Webs" DOI: 10.1126/science.279.5352.860, https://www.science.org/doi/10.1126/science.279.5352.860.  Dr. Pauly attempts to show three variables at once (Time, Trophic Position, and Harvest) in Fig. 5 but it's not that great looking. Use the metaDigitise package, extract the data from Fig 5a of 'Fishing Down Marine Food Webs". Plot the data as a time series of trophic position. Represent harvest size by scaling the geom you pick to represent the data by harvest. Do your best to create a publication quality graph (Maybe change axis labels, legend title). 
+
+HINTS: Go in order from 1950 to 1994, then use a tidy function to add a new column to specify the year for the data.  
+```{r}
+# Answer 5a
+
+```
+
+
+**Question 5b**. Provide a figure caption for this figure with the goal of presenting a standalone figure...do not just copy Dr. Pauly's 
+Answer 5b:  
+
+
+
+**Question 5c**. Which figure do you prefer? Yours or Dr. Pauly's? Explain which you think conveys the message of the figure more clearly?
+Answer 5c:
+
