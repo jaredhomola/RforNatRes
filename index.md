@@ -35,6 +35,8 @@ Intro to ggplot, basic plot types
 
 ### Assignments for next week
 - [Wed: Homework assignment 8](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_midterm.Rmd)   
+- Mon: A reading from Edward Tufte will be distributed via email  
+- Mon: Read Tufte's [Wikipedia page](https://en.wikipedia.org/wiki/Edward_Tufte)  
 <br><br>
 
 
