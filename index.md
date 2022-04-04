@@ -18,6 +18,22 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 <br><br>
 # **Section II: Data Visualization**  
 
+## Week 10: Data Visualization II  
+### Topics  
+More ggplot, additional plot types  
+### Resources for this week's topics  
+- [Week 11 slides](Wk10_ggplot_2.pdf)  
+- [Week 11 in class exercises R script](Wk10_inClass_Mon.R)  
+- [Week 11 in class exercises R Markdown](Wk10_inClass.Rmd)  
+- [The beauty of data visualization - David McCandless](https://www.youtube.com/watch?v=5Zg-C8AAIGg)  
+- [The R graph gallery](https://r-graph-gallery.com/)  
+- [Erik Gahner's Awesome ggplot](https://github.com/erikgahner/awesome-ggplot2)  
+  
+### Assignments for next week  
+- [MON! Homework assignment 8](Homework8.pdf)  
+
+<br><br>
+
 ## Week 9: Data Visualization I  
 ### Guest Lecturer: Dr. Bobby Davis  
 ### Topics  
