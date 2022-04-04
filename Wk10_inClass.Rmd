@@ -1,0 +1,26 @@
+---
+title: "Wk10_inClass"
+author: "Jared Homola"
+date: "4/2/2022"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+## Plots
+```{r}
+library(lterdatasampler)
+library(tidyverse)
+lterdatasampler::ntl_icecover %>% 
+  ggplot(aes(x = year, y = ice_duration, color = lakeid)) + 
+  geom_point() +
+  ylab("Ice duration") +
+  xlab("Year") +
+  theme_classic() +
+  NULL
+```
+
