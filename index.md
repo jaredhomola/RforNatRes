@@ -22,7 +22,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 Building maps, basic GIS  
 
 ### Resources for this week's topics
-- [Week 11 slides]()   
+- [Week 11 slides](Wk11_MapMaking.pdf)   
 - [Week 11 in class exercises](Wk11_inClassExercises.R)   
 - [R mapping tutorial I](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html)  
 - [R mapping tutorial II](https://cengel.github.io/R-spatial/mapping.html)  
