@@ -17,6 +17,20 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 <br><br>
 # **Section II: Data Visualization**  
+## Week 11: Data Visualization III  
+### Topics
+Building maps, basic GIS  
+
+### Resources for this week's topics
+- [Week 11 slides]()  
+- [R mapping tutorial I](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html)  
+- [R mapping tutorial II](https://cengel.github.io/R-spatial/mapping.html)  
+- [R mapping tutorial III](https://www.modeldifferently.com/en/2020/10/como-dibujar-mapas-en-r/)  
+
+### Assignments for next week
+- Wed: Homework assignment 10  
+
+<br><br>
 
 ## Week 10: Data Visualization II  
 ### Topics  
