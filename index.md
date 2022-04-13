@@ -29,7 +29,7 @@ Building maps, basic GIS
 - [R mapping tutorial III](https://www.modeldifferently.com/en/2020/10/como-dibujar-mapas-en-r/)  
 
 ### Assignments for next week
-- Wed: Homework assignment 10  
+- [Wed: Homework assignment 10](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_homework10.Rmd)   
 
 <br><br>
 
