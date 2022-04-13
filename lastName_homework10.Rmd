@@ -1,0 +1,49 @@
+---
+title: "R for Nat Res: Homework 10"
+author: "firstName lastName"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r}
+library(paletteer)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(tidyverse)
+lakeMichStocking <- read_delim("https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lakeMichigan2018Stocking.csv",
+                               delim = ",")
+```
+
+
+## Question 1: Lake Michigan fish stocking records
+Each year, several state and tribal natural resource agencies stock various fish species throughout the Great Lakes. The lakeMichStocking data set describes all 437 Lake Michigan fish stocking events that occurred in 2018. These data are curated by the Great Lakes Fishery Commission, which [defines the variables here](http://www.glfc.org/fishstocking/dbstruct.htm).  
+
+Using Natural Earth data and the Lake Michigan stocking records linked above (lakeMichStocking), create a publication-quality map with the following attributes:  
+- Each state in the data set should have a fill color that corresponds to the number of Chinook salmon (CHS) they stocked  
+- Include a scale and compass   
+- Include an inset map of the United States with an indicator of the focal area  
+- Give the legend an appropriate title  
+- Properly label the axes  
+- Be centered in the knitted document  
+- Include a figure caption using the R markdown method we discussed  
+- Other polishing you deem necessary to acheive a 'publication quality' standard   
+
+```{r message = FALSE, warning = FALSE}
+# Answer 1
+
+
+```
+
+## Question 2: Create your own publication-quality map    
+Generate a publication quality map using data from your own research. Your data may include only one site (e.g., a lake or woodlot) and/or may include many sampling points. It is highly likely (but not strictly necessary) that you will need to obtain data from outside Natural Earth and/or use Natural Earth data layers that we didn't use during lecture (e.g., the cities or lakes data accessible via ne_download()).  
+
+If you do not yet have data of your own, you can either generate a fake data set that is reflective of your eventual data (preferred) or use [this data set](https://raw.githubusercontent.com/jaredhomola/VPLandscapeGenetics/master/extData/SS_lat_long.txt) from Jared's dissertation research that describes spotted salamander sampling locations throughout Maine.    
+
+```{r}
+# Answer 2
+
+
+```
