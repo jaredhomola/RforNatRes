@@ -16,6 +16,26 @@
 Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this website. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, there will be an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
 
 <br><br>
+
+# **Section III: Statistical applications**  
+## Week 12: Mapping wrap-up and intro to stats in R  
+### Topics
+Building maps, parametric analysis assumptions, ANOVA and t-tests      
+
+### Resources for this week's topics
+- [Week 12 slides]()   
+- Week 12 in class exercises for [Monday](Wk11_inClassExercises_pt2.R) and Wednesday   
+- [Everthing is a regression](https://towardsdatascience.com/everything-is-just-a-regression-5a3bf22c459c)  
+- [R for Data Science section on modeling](https://r4ds.had.co.nz/model-intro.html)   
+- [Linear regression lesson](http://r-statistics.co/Linear-Regression.html)  
+- [Linear regression for predictive modeling](https://www.dataquest.io/blog/statistical-learning-for-predictive-modeling-r/)  
+
+### Assignments for next week
+- [Wed: Homework assignment 11]()   
+
+<br><br>
+
+
 # **Section II: Data Visualization**  
 ## Week 11: Data Visualization III  
 ### Topics
