@@ -23,15 +23,15 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 Building maps, parametric analysis assumptions, ANOVA and t-tests      
 
 ### Resources for this week's topics
-- [Week 12 slides]()   
-- Week 12 in class exercises for [Monday: blank](Wk11_inClassExercises_pt2.R)/[Monday: complete](Wk11_inClassExercises_pt2_complete.R) and Wednesday   
+- [Week 12 slides](Wk12_Regression_I.pdf)   
+- Week 12 in class exercises for [Monday: blank](Wk11_inClassExercises_pt2.R)/[Monday: complete](Wk11_inClassExercises_pt2_complete.R) and [Wednesday](Wk12_inClassExercises.R)   
 - [Everthing is a regression](https://towardsdatascience.com/everything-is-just-a-regression-5a3bf22c459c)  
 - [R for Data Science section on modeling](https://r4ds.had.co.nz/model-intro.html)   
 - [Linear regression lesson](http://r-statistics.co/Linear-Regression.html)  
 - [Linear regression for predictive modeling](https://www.dataquest.io/blog/statistical-learning-for-predictive-modeling-r/)  
 
 ### Assignments for next week
-- [Wed: Homework assignment 11]()   
+- [Wed: Homework assignment 11](Homework11.pdf)   
 
 <br><br>
 
