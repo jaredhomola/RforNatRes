@@ -24,7 +24,7 @@ ANOVA and various regression approaches
 
 ### Resources for this week's topics
 - [Week 13 slides]()   
-- Week 12 in class exercises for [Monday]() and [Wednesday]()   
+- Week 13 in class exercises for [Monday]() and [Wednesday]()   
 - Brian McGill blog posts on [Statistical machismo](https://dynamicecology.wordpress.com/2012/09/11/statistical-machismo/) and [the insidious evils of ANOVA](https://dynamicecology.wordpress.com/2012/11/27/ecologists-need-to-do-a-better-job-of-prediction-part-i-the-insidious-evils-of-anova/)   
 - [A practical guide to selecting models for exploration, inference, and prediction in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336)  
 - On the debate [against](https://royalsocietypublishing.org/doi/10.1098/rsos.140216) and [in favor of](https://scientistseessquirrel.wordpress.com/2015/02/09/in-defence-of-the-p-value/) p-values.   
