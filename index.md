@@ -18,6 +18,20 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 <br><br>
 
 # **Section III: Statistical applications**  
+## Week 14: Hypothesis testing via resampling  
+### Topics  
+Permutation tests and boostrapping  
+
+### Resources for this week's topics  
+- [Week 14 slides]()  
+- [Week 14 in class exercises]()  
+- [Neat website visualization of permutation testing](https://www.jwilber.me/permutationtest/)  
+- [Slides on the package infer](https://ismayc.github.io/talks/infer-useR/slide_deck.html#1)  
+- [Blog post vignette on infer](https://www.tidyverse.org/blog/2021/08/infer-1-0-0/)  
+
+### Final assignment: Due by 11:59 on Sunday May 15  
+
+
 ## Week 13: ANOVA and regression in R  
 ### Topics
 ANOVA and various regression approaches       
