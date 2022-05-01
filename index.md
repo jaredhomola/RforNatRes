@@ -23,8 +23,8 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 Permutation tests and boostrapping  
 
 ### Resources for this week's topics  
-- [Week 14 slides]()  
-- [Week 14 in class exercises]()  
+- [Week 14 slides](Wk14_simulations.pdf)  
+- [Week 14 in class exercises](Wk14_inClassExercises.R)  
 - [Neat website visualization of permutation testing](https://www.jwilber.me/permutationtest/)  
 - [Slides on the package infer](https://ismayc.github.io/talks/infer-useR/slide_deck.html#1)  
 - [Blog post vignette on infer](https://www.tidyverse.org/blog/2021/08/infer-1-0-0/)  
