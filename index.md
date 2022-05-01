@@ -28,6 +28,8 @@ Permutation tests and boostrapping
 - [Neat website visualization of permutation testing](https://www.jwilber.me/permutationtest/)  
 - [Slides on the package infer](https://ismayc.github.io/talks/infer-useR/slide_deck.html#1)  
 - [Blog post vignette on infer](https://www.tidyverse.org/blog/2021/08/infer-1-0-0/)  
+- [Textbook on multivariate stats in R](https://www.webpages.uidaho.edu/~stevel/519/An%20Intro%20to%20Applied%20Multi%20Stat%20with%20R%20by%20Everitt%20et%20al.pdf)  
+- [Quant Psych YouTube channel](https://www.youtube.com/c/QuantPsych/videos)  
 
 ### Final assignment: Due by 11:59 on Sunday May 15  
 
