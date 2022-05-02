@@ -32,7 +32,7 @@ Permutation tests, bootstrapping, lecture 1 of multivariate stats
 - [Quant Psych YouTube channel](https://www.youtube.com/c/QuantPsych/videos)  
 - [PCA tutorial](https://physiology.med.cornell.edu/people/banfelder/qbio/lecture_notes/3.4_Principal_component_analysis.pdf)  
 
-### Final assignment: Due by 11:59 on Sunday May 15  
+### Final assignment: Due by 11:59pm on Sunday May 15  
 Final assignment  
 <br><br>
 
