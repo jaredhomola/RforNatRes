@@ -23,8 +23,8 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 Permutation tests, bootstrapping, lecture 1 of multivariate stats 
 
 ### Resources for this week's topics  
-- [Week 14 slides for resampling](Wk14_simulations.pdf) and [Week 14 slides for multivariate analysis]()  
-- [Week 14 in class exercises for resampling](Wk14_inClassExercises.R)  and [Week 14 in class exercises for multivariate analysis]()  
+- [Week 14 slides for resampling](Wk14_simulations.pdf) and [Week 14 slides for multivariate analysis](Wk15_multivariate.pdf)  
+- [Week 14 in class exercises for resampling](Wk14_inClassExercises.R) and [Week 14 in class exercises for multivariate analysis](Wk15_inClassExercises.R)  
 - [Neat website visualization of permutation testing](https://www.jwilber.me/permutationtest/)  
 - [Slides on the package infer](https://ismayc.github.io/talks/infer-useR/slide_deck.html#1)  
 - [Blog post vignette on infer](https://www.tidyverse.org/blog/2021/08/infer-1-0-0/)  
@@ -33,7 +33,7 @@ Permutation tests, bootstrapping, lecture 1 of multivariate stats
 - [PCA tutorial](https://physiology.med.cornell.edu/people/banfelder/qbio/lecture_notes/3.4_Principal_component_analysis.pdf)  
 
 ### Final assignment: Due by 11:59pm on Sunday May 15  
-Final assignment  
+[Final assignment](FinalAssignment.pdf)    
 <br><br>
 
 ## Week 13: ANOVA and regression in R  
