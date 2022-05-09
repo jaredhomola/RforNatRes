@@ -18,6 +18,17 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 <br><br>
 
 # **Section III: Statistical applications**  
+## Week 15: Multivariate analyses and semester review    
+### Topics  
+Multivariate analyses and semester review   
+
+### Resources for this week's topics  
+- [Slides on multivariate analyses](Wk15_multivariate.pdf)   
+- [Week 15 in class exercises for multivariate analyses](Wk15_inClassExercises.R)  
+
+<br><br>
+
+
 ## Week 14: Hypothesis testing via resampling  
 ### Topics  
 Permutation tests, bootstrapping, lecture 1 of multivariate stats 
