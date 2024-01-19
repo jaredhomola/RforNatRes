@@ -21,12 +21,12 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 ### Topics
 - Course format, Objects and actions in R  
 
-### Resources for this week's topics
+### Optional resources for this week's topics
 - [Download R](https://repo.miserver.it.umich.edu/cran/) Install R before RStudio  
 - [Download R Studio](https://rstudio.com/products/rstudio/download/#download)  
 - [R for Data Science: Welcome & Introduction](https://r4ds.hadley.nz/)  
 - [Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
 - [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440)  
 - [Rmarkdown cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf)  
-- Week 1 slides: [Tuesday](TBD) and [Thursday](TBD)   
+- Week 1 slides: [Tuesday - to be uploaded](TBD) and [Thursday - to be uploaded](TBD)   
 
