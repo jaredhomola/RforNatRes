@@ -9,7 +9,7 @@
 
 ### Course resources
 [Syllabus](R_programming_for_nat_res_syllabus_2024.pdf)  
-[R for Data Science online textbook](https://r4ds.had.co.nz/index.html)  
+[R for Data Science online textbook](https://r4ds.hadley.nz/)  
 [Big Book of R](https://www.bigbookofr.com/)  
 
 ### Note on accessing primary literature
@@ -24,14 +24,9 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 ### Resources for this week's topics
 - [Download R](https://repo.miserver.it.umich.edu/cran/) Install R before RStudio  
 - [Download R Studio](https://rstudio.com/products/rstudio/download/#download)  
-- [R for Data Science: Welcome](https://r4ds.had.co.nz/introduction.html)  
+- [R for Data Science: Welcome & Introduction](https://r4ds.hadley.nz/)  
 - [Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
-- [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440&t=28s)  
+- [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440)  
 - [Rmarkdown cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf)  
-- Week 1 slides: [Monday](1_R_basics.pdf) and [Wednesday](1_R_basics_Wed.pdf)   
+- Week 1 slides: [Monday](TBD) and [Wednesday](TBD)   
 
-### Assignments for next week
-- Mon: [R for Data Science - Workflow:Basics](https://r4ds.had.co.nz/workflow-basics.html)
-- Mon: [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
-- Mon: [Wildlife biology, big data, and reproducible research - Lewis et al. 2018](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/wsb.847)  
-- Wed: [Homework assignment 1](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework1.Rmd)  
