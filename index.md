@@ -4,8 +4,8 @@
 **Contact:** jhomola@uwsp.edu  
 **Office:** 163 Trainer Natural Resources Building (USGS Fish Coop Office)  
 **Classroom:** 356 Trainer Natural Resources Building  
-**Time:** Monday and Wednesday 9:30-10:45am  
-**Format:** Monday lectures and Wednesday labs.  
+**Time:** Tuesday and Thursday 11:00am-12:15pm  
+**Format:** Tuesday lectures and Thursday labs. 
 
 ### Course resources
 [Syllabus](R_programming_for_nat_res_syllabus_2024.pdf)  
