@@ -1,0 +1,86 @@
+---
+title: "Homework 1"
+author: "firstName lastName"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document: default
+  pdf_document: default
+---
+  
+### Instructions:   
+
+1. Update the YAML code by changing the author name ("firstName lastName") to your name, keeping the quotes in place. The title can remain "Homework 1." The code in the date row generates the date that you knit the script.  
+
+2. Complete the questions below, placing your code into the gray code chunks.  
+
+3. When your full script is complete, save it as lastName_Homework1.rmd, clear your environment, run through your script again block-by-block to make sure it all runs, then knit it (Knit button above this window).  
+
+4. Turn in the output html file and the .rmd file via email (jhomola@uwsp.edu).  
+
+5. Remember to comment your answers to explain the functions used in plain language.  
+
+<br><br>
+
+**Question 1: Create vectors of data with the following attributes using rep() and seq().** 
+Question 1a. Create a vector with the following lake names repeated 10 times: “Mission”, “Emily”, “McDill”.  The total length of the vector should be 30 and the first 6 entries should be “Mission”, “Emily”, “McDill”, “Mission”, “Emily”, “McDill”. Hint: this should involve the "rep" function.  
+```{r}
+# Answer 1a
+
+```
+
+Question 1b. Use the sort() function to sort the vector alphabetically by lake name. Name this something new. 
+```{r}
+# Answer 1b
+
+```
+
+Question 1c. Create a vector of odd years 1991 to 2009. This vector should contain 10 entries. Use the length() function to confirm this. Hint: this should involve the "seq" function.
+```{r}
+# Answer 1c
+
+```
+
+Question 1d. Use the rnorm() function to sample 30 values from a normal distribution with a mean of 6 and a standard deviation of 1. Call this vector "bluegill_lengths".   
+```{r}
+# Answer 1d
+
+```
+
+Question 1e. Use rnorm() to create a vector of 30 values with a mean of 17 and a standard deviation of 2, call this "walleye_lengths".
+```{r}
+# Answer 1e
+
+```
+
+Question 1f. Use rnorm() to create a vector of 30 values with a mean of 40 and a standard deviation of 5, call this "musky_lengths".
+```{r}
+# Answer 1f
+
+```
+  
+  
+**Question 2: This question involves creating a dataframe and subsetting data from it.** 
+Question 2a. Create a dataframe using the vectors created in question 1. The first column should be sorted lake names from question 1b, the second column should be years, the third column should be bluegill lengths, the fourth column should be walleye lengths, and the fifth column should be musky lengths. The columns should be named the following: “lake”, “year”, “bluegill”, “walleye”, “musky”.  
+```{r}
+# Answer 2a
+
+```
+
+Question 2b. Calculate the minimum length, maximum length, mean, and 0%, 5%, 50%, and 95% for each species. This will require a modification of the quantile function that was not discussed in class. Also, please round the mean for each species to 2 decimal places using the round() function. Use the $ approach to subset the bluegill and walleye data from the dataframe and the [] approach to subset the musky data. Notice the repetitiveness of this code.  The code for each species is almost identical. We will learn how to write functions to generalize code like this in the few couple weeks.  
+```{r}
+# Answer 2b
+
+```
+
+Question 2c. Calculate the mean lengths of bluegill on lakes Emily and McDill. Hint: use [] to subset the dataframe by rows and columns.  
+```{r}
+# Answer 2c
+
+```
+
+Question 2d. Use a T-test to determine if the lengths of bluegill in Emily and McDill are significantly different. The function is t.test(). The only arguments necessary are x, y. Use the help file and searching the internet for more help.   
+```{r}
+# Question 2d
+
+```
+

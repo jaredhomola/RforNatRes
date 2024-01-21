@@ -28,5 +28,10 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - [Ecological data should not be so hard to find and resuse - Poisot et al. 2019](https://www.sciencedirect.com/science/article/pii/S0169534719301107)
 - [Christian Genco - You should learn to program (YouTube)](https://www.youtube.com/watch?v=xfBWk4nw440)  
 - [Rmarkdown cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf)  
-- Week 1 slides: [Tuesday - to be uploaded](TBD) and [Thursday - to be uploaded](TBD)   
+- Week 1 slides: [Tuesday](1_R_basics.pdf) and [Thursday](1_R_basics - Thurs.pdf)     
+
+### Required content for this week
+- [Video lecture for Tues January 22](https://youtu.be/xTutYpnk5d8)  
+- [Homework week 1](lastName_Homework1.Rmd)  
+- No paper to read for week 2 discussion   
 
