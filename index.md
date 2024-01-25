@@ -32,6 +32,6 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 ### Required content for this week
 - [Video lecture for Tues January 22](https://youtu.be/xTutYpnk5d8)  
-- [Homework week 1](lastName_Homework1.Rmd) Due Thurs Feb 1  
+- [Homework week 1](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework1.Rmd) Due Thurs Feb 1  
 - No paper to read for week 2 discussion   
 
