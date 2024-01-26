@@ -31,7 +31,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - Week 2 slides: [Tuesday - to be uploaded]() and [Thursday - to be uploaded]()  
 
 ### Required content for this week
-- [Tidy Data, Wickham 2014](https://vita.had.co.nz/papers/tidy-data.pdf)  
+- [Tidy Data - Wickham 2014](https://vita.had.co.nz/papers/tidy-data.pdf)  
 - [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
 - [Video lecture for Tues January 30](https://youtu.be/Qy22qJsivzQ)  
 - [Homework week 2 - to be uploaded]()
