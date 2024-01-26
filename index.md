@@ -36,6 +36,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - [Video lecture for Tues January 30](https://youtu.be/Qy22qJsivzQ)  
 - [Homework week 2 - to be uploaded]()
 
+<br><br>
 
 ## Week 1: Intro & R basics I
 ### Topics
