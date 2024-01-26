@@ -28,7 +28,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - [How to Be a Better Web Searcher: Secrets from Google Scientists](https://blogs.scientificamerican.com/observations/how-to-be-a-better-web-searcher-secrets-from-google-scientists/)  
 - [Google's R style guide](https://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html)  
 - [Real world implications of working with data in Excel](https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england)  
-- Week 2 slides: [Tuesday - to be uploaded]() and [Thursday - to be uploaded]()  
+- Week 2 slides: [Tuesday](2_DataTypesHelpEtiquette.pdf) and [Thursday - to be uploaded]()  
 
 ### Required content for this week
 - [Tidy Data - Wickham 2014](https://vita.had.co.nz/papers/tidy-data.pdf)  
