@@ -28,13 +28,13 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - [How to Be a Better Web Searcher: Secrets from Google Scientists](https://blogs.scientificamerican.com/observations/how-to-be-a-better-web-searcher-secrets-from-google-scientists/)  
 - [Google's R style guide](https://web.stanford.edu/class/cs109l/unrestricted/resources/google-style.html)  
 - [Real world implications of working with data in Excel](https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england)  
-- Week 2 slides: [Tuesday](2_DataTypesHelpEtiquette.pdf) and [Thursday - to be uploaded]()  
+- Week 2 slides: [Tuesday](2_DataTypesHelpEtiquette.pdf) and [Thursday](2_Thurs_DataTypesHelpEtiquette.pdf)  
 
 ### Required content for this week
 - [Tidy Data - Wickham 2014](https://vita.had.co.nz/papers/tidy-data.pdf)  
 - [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
 - [Video lecture for Tues January 30](https://youtu.be/Qy22qJsivzQ)  
-- [Homework week 2 - to be uploaded]()
+- [Homework week 2](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework2.Rmd) Due Thurs Feb 8  
 
 <br><br>
 

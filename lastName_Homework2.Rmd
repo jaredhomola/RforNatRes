@@ -1,0 +1,90 @@
+---
+title: "Homework 2"
+author: "firstName lastName"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document: default
+  pdf_document: default
+---
+  
+### Reminders:   
+
+1. Not all of the exact syntax that you need to complete this assignment has been discussed in class. Part of this homework is using approaches discussed in class to find solutions online. In cases where you consulted a website, be sure to provide the URL to the  website that helped you come to the answer you provided. Such citations can be provided as comments within each code block. Also cite your colleagues that helped you to your answer.  
+
+2. This assignment relies on a dataset that is available online. The code to obtain those data are shown in the first code block below.  
+
+3. Rename the file to include your last name (lastName_Homework2.rmd). Turn in the knitted HTML and this R markdown document via email by class time next Thurs (Feb 8).  
+
+```{r}
+### Set up you workspace with the necessary data and packages
+list.of.packages <- c("remotes") ## Vector of required packages for the assignment
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[, "Package"])] ## Check to see if these packages are installed
+if(length(new.packages))
+  install.packages(new.packages) ## Install the packages that aren't installed
+library(remotes)
+
+### Comment out install_github() after the first time you run it on a new computer.
+#install_github("lter/lterdatasampler", force = TRUE) ## Install a package that isn't on CRAN
+library(lterdatasampler) ## Load the package from your library
+```
+
+
+**Question 1: Evaluate properties of the ntl_icecover dataset included in the lterdatasampler package**   
+Question 1a. Determine the data type for each column of the ntl_icecover data frame. Include the code you used and write a comment below the code indicating the name of each column and its data type (e.g., column1:type, column2,type, etc.).  
+```{r}
+# Answer 1a
+
+```
+
+Question 1b. Subset the data to only the rows with "NA" in the ice_on column.    
+```{r}
+# Answer 1b
+
+```
+
+Question 1c. What is the mean ice_duration value for Lake Mendota for years without missing data (NAs)?   
+```{r}
+# Answer 1c
+
+```
+
+Question 1d. What is the correlation coefficient between year and ice_duration for Lake Mendota? Hint: you'll only want to *use* complete observations (rows).  
+```{r}
+# Answer 1d
+
+```
+
+Question 1e. How many years had an ice duration greater than 130 days on Lake Mendota? Hint: check out which().  
+```{r}
+# Answer 1e
+
+```
+  
+Question 1f. What is the most recent year that the ice duration was greater than 130 days on Lake Mendota? Make sure your code produces the answer. Don't just look at the data frame produced above.    
+```{r}
+# Answer 1f
+
+```
+
+**Question 2: Interpreting and commenting**  
+Question 2a. Appropriately comment the code below to describe each process being accomplished. Modify the code as we discussed in class to improve readability (spaces, new lines, etc.).   
+```{r}
+df <- data.frame(Species = rep(c("Cat","Dog","Mouse"),each=10),Length = 5+rnorm(30),Width = 10+rnorm(30)) 
+cat_rows<-which(df$Species=="Cat")
+cat_area<-df[cat_rows,"Area"]
+dog_rows<-which(df$Species=="Dog")
+dog<-df[dog_rows,]
+df$Area <- df$Length*df$Width
+plot(x=df$Length,y=df$Width,col=as.factor(df$Species),pch=19)
+```
+
+
+**Question 3: Modify appearance of your R markdown document.**   
+Complete the following tasks by editing the R markdown document you're currently working in. Knit the script as an html file to test your solutions.  
+1. Set up your .rmd file to not print the code associated with the first code chunk (library loading). Despite not printing the code, the code should still run when you knit the file.      
+2. Make Question 1d print in italic font.  
+3. Make Question 1b print in strikethrough font.  
+4. Make Question 1f show just the answer, but not the code that generated it.  
+5. Print the following as "verbatim code" at the end of this document: "Hello World".  
+6. Also at the end of this document, write out the equation for the Pythagorean theorem using an equation block with proper superscripting.   
+
