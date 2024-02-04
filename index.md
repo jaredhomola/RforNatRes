@@ -30,8 +30,8 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - [Thought, question, epiphany discussion](https://docs.google.com/document/d/1XGwjZcpYH6T3TvpN_rPxFKeN-SIq-dYFm_ryHwxJaUQ/edit?usp=sharing)  
 
 ### Required content for this week
-- [How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0)  
-- [Implementing code review in the scientific workflow: Insights from ecology and evolutionary biology](https://academic.oup.com/jeb/article/36/10/1347/7577476)  
+- [How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0) - Discussion on Feb 13  
+- [Implementing code review in the scientific workflow: Insights from ecology and evolutionary biology](https://academic.oup.com/jeb/article/36/10/1347/7577476) - Discussion on Feb 13   
 - [Homework assignment 3 - To be uploaded]()   
 
 <br><br>
@@ -50,8 +50,8 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - Week 2 slides: [Tuesday](2_DataTypesHelpEtiquette.pdf) and [Thursday](2_Thurs_DataTypesHelpEtiquette.pdf)  
 
 ### Required content for this week
-- [Tidy Data - Wickham 2014](https://vita.had.co.nz/papers/tidy-data.pdf)  
-- [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763)  
+- [Tidy Data - Wickham 2014](https://vita.had.co.nz/papers/tidy-data.pdf) - Discussion on Feb 6  
+- [Low availability of code in ecology: A call for urgent action - Culina et al. 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763) - Discussion on Feb 6    
 - [Video lecture for Tues January 30](https://youtu.be/Qy22qJsivzQ)  
 - [Homework week 2](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework2.Rmd) Due Thurs Feb 8  
 
