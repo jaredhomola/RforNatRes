@@ -17,6 +17,25 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 <br><br>
 
+## Week 3: Intro to the Tidyverse
+### Topics  
+- Tidyverse: Who, What, Why?
+
+### Resources for this week's topics
+- [Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E) Note: Watching this lecture is strongly recommended  
+- [Tidyverse style guide](https://style.tidyverse.org/index.html)  
+- [Tidyverse blog](https://www.tidyverse.org/blog/)  
+- In class exercises for [Tues - to be uploaded]() and [Thurs - to be uploaded]()  
+- Week 3 slides: [Tuesday](3_IntroToTidyverse.pdf)    
+- [Thought, question, epiphany discussion](https://docs.google.com/document/d/1XGwjZcpYH6T3TvpN_rPxFKeN-SIq-dYFm_ryHwxJaUQ/edit?usp=sharing)  
+
+### Required content for this week
+- [How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0)  
+- [Implementing code review in the scientific workflow: Insights from ecology and evolutionary biology](https://academic.oup.com/jeb/article/36/10/1347/7577476)  
+- [Homework assignment 3 - To be uploaded]()   
+
+<br><br>
+
 ## Week 2: Data types, Etiquette, and Help
 ### Topics
 - Data structures in R, best practices in coding etiquette, and how to get help
