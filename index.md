@@ -25,7 +25,6 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 - [Hadley Wickham - Data science with R (YouTube)](https://www.youtube.com/watch?v=K-ss_ag2k9E) Note: Watching this lecture is strongly recommended  
 - [Tidyverse style guide](https://style.tidyverse.org/index.html)  
 - [Tidyverse blog](https://www.tidyverse.org/blog/)  
-- In class exercises for [Tues - to be uploaded]() and [Thurs - to be uploaded]()  
 - Week 3 slides: [Tuesday](3_IntroToTidyverse.pdf)    
 - [Thought, question, epiphany discussion](https://docs.google.com/document/d/1XGwjZcpYH6T3TvpN_rPxFKeN-SIq-dYFm_ryHwxJaUQ/edit?usp=sharing)  
 
