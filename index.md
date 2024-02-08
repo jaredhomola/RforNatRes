@@ -31,6 +31,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 ### Required content for this week
 - [How to fix your scientific coding errors](https://www.nature.com/articles/d41586-022-00217-0) - Discussion on Feb 13  
 - [Implementing code review in the scientific workflow: Insights from ecology and evolutionary biology](https://academic.oup.com/jeb/article/36/10/1347/7577476) - Discussion on Feb 13   
+- [Thursday in class script](InClass_Wk3_Thurs.R)  
 - [Homework assignment 3](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework3.Rmd) Due Thurs Feb 15    
 
 <br><br>
