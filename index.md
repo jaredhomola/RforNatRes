@@ -15,6 +15,22 @@
 ### Note on accessing primary literature
 Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this website. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, there will be an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
 
+
+## Week 4: Data wrangling I
+### Topics  
+- Subsetting and summarizing data
+
+### Resources for this week's topics
+- [Tidyverse Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)  
+- [Wrangling section from R for Data Science](https://r4ds.hadley.nz/data-tidy)  
+- [Week 4 slides](4_DataWranglingI.pdf)  
+- [Thought, question, epiphany discussion](https://docs.google.com/document/d/1_ijoxCMUK3X4EFuVrIPJ-fs0gsVUSH-trbQlmMw5T74/edit?usp=sharing)  
+
+### Required content for this week
+- Read in this order [1. this Katie Laskowski blog post](https://laskowskilab.faculty.ucdavis.edu/2020/01/29/retractions/), [2. this Daniel Bolnick blog post](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html), and [3. this Science column](https://www.science.org/content/article/university-investigation-found-prominent-spider-biologist-fabricated-falsified-data) about a recent data integrity incident - Discussion on Feb 20  
+- [Homework assignment 4]() Due Thurs Feb 22     
+
+
 <br><br>
 
 ## Week 3: Intro to the Tidyverse
