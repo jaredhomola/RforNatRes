@@ -28,7 +28,7 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 ### Required content for this week
 - Read in this order [1. this Katie Laskowski blog post](https://laskowskilab.faculty.ucdavis.edu/2020/01/29/retractions/), [2. this Daniel Bolnick blog post](http://ecoevoevoeco.blogspot.com/2021/05/17-months.html), and [3. this Science column](https://www.science.org/content/article/university-investigation-found-prominent-spider-biologist-fabricated-falsified-data) about a recent data integrity incident - Discussion on Feb 20  
-- [Homework assignment 4]() Due Thurs Feb 22     
+- [Homework assignment 4](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework4.Rmd) Due Thurs Feb 22     
 
 
 <br><br>
