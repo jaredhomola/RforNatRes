@@ -95,15 +95,7 @@ Question 3. Calculate average salary for each major league team in 2012. Your re
 Hint: I achieved this using four tidyverse functions and two from kableExtra. You should be at or near that.   
 ```{r}
 # Answer 3a
-library(Lahman)
-library(kableExtra)
-Lahman::Salaries %>%
-  filter(yearID == 2012) %>%
-  group_by(teamID) %>%
-  summarize(avg_salary = mean(salary)) %>%
-  arrange(desc(avg_salary)) %>% 
-  kbl() %>% 
-  kable_styling(full_width = FALSE)
+
 ```
 
 
