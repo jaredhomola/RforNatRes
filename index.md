@@ -16,6 +16,23 @@
 Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this website. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, there will be an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
 
 
+<br><br>
+
+## Week 5: Data wrangling II
+### Topics  
+Joining and modifying data  
+
+### Resources for this week's topics
+- [R for Data Science: Joins](https://r4ds.hadley.nz/joins.html) Strongly recommended  
+- [Tidy Data Tutor](https://tidydatatutor.com/)  
+- [Week 5 slides](5_DataWranglingII.pdf)  
+
+### Assignments for next week  
+- Tues: [Situating Ecology as a Big-Data Science: Current Advances, Challenges, and Solutions](https://academic.oup.com/bioscience/article/68/8/563/5049569?)  
+- Thurs: [Homework assignment 5]()   
+
+<br><br>
+
 ## Week 4: Data wrangling I
 ### Topics  
 - Subsetting and summarizing data
