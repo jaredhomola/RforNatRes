@@ -26,6 +26,7 @@ Joining and modifying data
 - [R for Data Science: Joins](https://r4ds.hadley.nz/joins.html) Strongly recommended  
 - [Tidy Data Tutor](https://tidydatatutor.com/)  
 - [Week 5 slides](5_DataWranglingII.pdf)  
+- [Thought, question, epiphany discussion for Week 4 materials](https://docs.google.com/document/d/18WKyPcnVQQsNtMPhVaPqPk1EH2VkmV0HKWvF4SzVbZs/edit?usp=sharing)  
 
 ### Assignments for next week  
 - Tues: [Situating Ecology as a Big-Data Science: Current Advances, Challenges, and Solutions](https://academic.oup.com/bioscience/article/68/8/563/5049569?)  
