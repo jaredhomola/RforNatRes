@@ -30,7 +30,7 @@ Joining and modifying data
 
 ### Assignments for next week  
 - Tues: [Situating Ecology as a Big-Data Science: Current Advances, Challenges, and Solutions](https://academic.oup.com/bioscience/article/68/8/563/5049569?)  
-- Thurs: [Homework assignment 5]()   
+- Thurs: [Homework assignment 5](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework5.Rmd)   
 
 <br><br>
 
