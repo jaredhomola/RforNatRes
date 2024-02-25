@@ -15,6 +15,25 @@
 ### Note on accessing primary literature
 Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this website. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, there will be an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
 
+<br><br>
+
+## Week 6: Additional Tidyverse packages
+### Topics  
+Various additional Tidyverse packages 
+
+### Resources for this week's topics  
+- Cheat sheets for [forcats](https://raw.githubusercontent.com/rstudio/cheatsheets/main/factors.pdf), [lubridate](https://rawgit.com/rstudio/cheatsheets/main/lubridate.pdf), and [stringr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/strings.pdf)  
+- R for data science chapters on [Dates and Times](https://r4ds.hadley.nz/datetimes.html), [Strings](https://r4ds.hadley.nz/strings.html), and [Factors](https://r4ds.hadley.nz/factors.html)  
+- [Week 6 slides](6_AdditionalTidyversePackages.pdf)  
+
+### Assignments for next week  
+- Tues: Lead 5-7 min discussion of programmings topics. Define, explain use cases in natural resources context, discuss in R context, develop a question or creative example   
+	- **Algorithms**: Braden, Jeff, Caden, Sam (Group 1)  
+	- **Loops**: Amanda, Emilia, Roz, Kevin (Group 2)    
+	- **Functional programming**: Ryan B., Ryan E., Max (Group 3)    
+	- **Object-oriented programming**: Jason, Erik, Jeff (Group 4)    
+- Wed: [Homework assignment 6]()  
+
 
 <br><br>
 
