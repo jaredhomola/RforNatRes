@@ -25,6 +25,8 @@ Various additional Tidyverse packages
 - Cheat sheets for [forcats](https://raw.githubusercontent.com/rstudio/cheatsheets/main/factors.pdf), [lubridate](https://rawgit.com/rstudio/cheatsheets/main/lubridate.pdf), and [stringr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/strings.pdf)  
 - R for data science chapters on [Dates and Times](https://r4ds.hadley.nz/datetimes.html), [Strings](https://r4ds.hadley.nz/strings.html), and [Factors](https://r4ds.hadley.nz/factors.html)  
 - [Week 6 slides](6_AdditionalTidyversePackages.pdf)  
+- [Thought, question, epiphany discussion for Week 5 materials](https://docs.google.com/document/d/1vo2ISHWSKqbpxASnBXRA82h6joG9ZI6bHBbpayg1SHQ/edit?usp=sharing)  
+
 
 ### Assignments for next week  
 - Tues: Lead 5-7 min discussion of programmings topics. Define, explain use cases in natural resources context, discuss in R context, develop a question or creative example   
