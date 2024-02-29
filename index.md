@@ -34,7 +34,7 @@ Various additional Tidyverse packages
 	- **Loops**: Amanda, Emilia, Roz, Kevin (Group 2)    
 	- **Functional programming**: Ryan B., Ryan E., Max (Group 3)    
 	- **Object-oriented programming**: Jason, Erik, Jeff (Group 4)    
-- Wed: [Homework assignment 6]()  
+- Wed: [Homework assignment 6](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework6.Rmd)  
 
 
 <br><br>
