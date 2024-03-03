@@ -17,6 +17,27 @@ Due to copyright protections enforced by journals, I cannot directly share PDFs 
 
 <br><br>
 
+## Week 7: Iterating I  
+### Topics   
+Writing functions and loops  
+### Resources for this week's topics  
+- R for data science chapters on [Functions](https://r4ds.hadley.nz/functions.html) and [Iteration](https://r4ds.hadley.nz/iteration.html)  
+- Week 7 [slides](IteratingI.pdf)  
+
+### Assignments for next week  
+- Mon: Lead discussion of talk topics   
+	- **Debugging:** Braden, Amanda, Ryan B., Jason, Jeff   
+		- [Jenny Bryan: Object of type ‘closure’ is not subsettable](https://www.youtube.com/watch?v=vgYS-F8opgE)    
+	- **Tidyverse lifecycles:** Roz, Ryan E., Erik, Sam, Hannah 
+		- [Hadley Wickham: Maintaining the house the tidyverse built](https://www.youtube.com/watch?v=izFssYRsLZs&t)   
+	- **Additional RMarkdown features:** Caden, Emilia, Max, Jeff  
+		- [Rob Hyndman rstudio: How Rmarkdown changed my life](https://www.youtube.com/watch?v=_D-ux3MqGug)  
+		- [Yihui Xie: One R Markdown Document, Fourteen Demos](https://www.youtube.com/watch?v=qLEkUjxk7e8)   
+
+- [Midterm homework, due March 24 at 11:59pm]()    
+
+<br><br>
+
 ## Week 6: Additional Tidyverse packages
 ### Topics  
 Various additional Tidyverse packages 
