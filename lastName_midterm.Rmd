@@ -1,0 +1,96 @@
+---
+title: "R for Nat Res Midterm assignment"
+author: "firstName lastName"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+Instructions: Below are three series of questions dealing with real world datasets. Real world data are messy, for instance having lots of missing data and unnecessary variables. Dealing with these challenges should be an inherent consideration in this assignment. You're welcome to seek out functions we haven't used before or to write your own unless the question specifically tells you which approach to take (e.g., "Write a function that..."). Just like with your homework, your final product should be a knitted html document that is free of error, warning, and package loading messages. If you get stuck, be sure to reach out to your instructor or classmates for assistance.       
+
+```{r}
+library(lubridate)
+library(glue)
+library(tidyverse)
+wrGage <- read_delim("https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/wiscRapidsGage.txt",
+                     delim = "\t")
+
+lakeMichStocking <- read_delim("https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lakeMichigan2018Stocking.csv",
+                               delim = ",")
+
+iNatWiscBirds <- read_delim("https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/iNaturalistWiscBirds.csv",
+                            delim = ",")
+iNatWiscBirds_genusSpecies <- read_delim("https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/iNaturalistWiscBirds_SpeciesGenus.csv",
+                                         delim = ",")
+```
+
+
+## Section 1: Wisconsin River Gage at Wisconsin Rapids   
+The US Geological Survey operates stream gage stations in waterways all over the country to monitor stream discharge (volume of water moving downstream) in cubic feet per second (cfs) and water depth in feet. The closest gaging station to Stevens Point is just downstream in Wisconsin Rapids, WI on the Wisconsin River. The wrGage data set contains variables for the time, time zone, river discharge (discharge_cfs), and water depth (gageHeight_ft) for the Wisconsin Rapids gaging station at five minute intervals from March 6, 2021 to March 6, 2022.  
+
+**Question 1.1**. What was the mean and standard deviation for discharge and gage height for each month? Ensure that the months are presented in chronological order.    
+```{r}
+# Answer 1.1
+
+```
+
+**Question 1.2**. Write a function to calculate standard error (sd/sqrt(n)). Use that function to calculate the standard error of the Wisconsin River gage height for each month.           
+```{r}
+# Answer 1.2
+
+```
+
+**Question 1.3**. With the aid of the quantile() function, count the number of discharge rates by month in the following categories: lower half (<50th percentile) or upper half (>=50th percentile). Your resulting tibble should have no NA values.         
+```{r}
+# Answer 1.3
+
+```
+
+## Section 2: Lake Michigan fish stocking records
+Each year, several state and tribal natural resource agencies stock various fish species throughout the Great Lakes. The lakeMichStocking data set describes all 437 Lake Michigan fish stocking events that occurred in 2018. These data are curated by the Great Lakes Fishery Commission, which [defines the variables here](http://www.glfc.org/fishstocking/dbstruct.htm).
+
+**Question 2.1**. Which species was stocked in the greatest numbers in each state in 2018?      
+```{r}
+# Answer 2.1
+
+```
+
+**Question 2.2**. Write a function that identifies the site where the most fish were released for a given state and reports back the state, site, species, and total number of fish of that species stocked there. Test it on data from one state to produce a 1x4 tibble as your final answer.             
+```{r}
+# Answer 2.2
+
+```
+
+**Question 2.3**. Determine the number of fish of each species stocked by season. Ensure your resulting tibble is sorted by species. Define winter as Dec, Jan, and Feb, spring as Mar, Apr, and May, summer as Jun, Jul, and Aug, and fall as Sep, Oct, and Nov.                 
+```{r}
+# Answer 2.3
+
+```
+
+## Section 3: iNaturalist Wisconsin Bird Data  
+iNaturalist crowdsources biodiversity observations from throughout the world. The iNatWiscBirds and iNatWiscBirds_genusSpecies include over 50,000 bird observations that have been logged in Wisconsin.  
+
+**Question 3.1**. Produce a tibble that displays the 10 most commonly observed genera in the dataset.     
+```{r}
+# Answer 3.1
+
+```
+
+**Question 3.2**. Calculate the monthly number of red-winged blackbird observations.       
+```{r}
+# Answer 3.2
+
+```
+
+**Question 3.3**. Write a while loop that randomly samples the dataset until it lands on a wild turkey. Once it does, use a glue() statement to report the number of random samples your while loop took to find a turkey and the date that it was observed on. You do not need to use kableExtra to display the resulting message.        
+```{r}
+# Answer 3.3
+
+```
+
+**Question 3.4**. Find an example of a migratory bird species that is more commonly observed in Wisconsin during February than any other month. There are lots of ways to solve this but your solution should involve a custom function, for loop, while loop, or some clever mutate/summarize functions. Just subsetting to a species that you know has this migratory pattern is not an acceptable solution. Report the species' common name and its number of observations for each month. You are allowed to use two separate pipelines to answer this if necessary.        
+```{r}
+# Answer 3.4
+
+```
