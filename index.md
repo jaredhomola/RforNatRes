@@ -25,7 +25,7 @@ Writing functions and loops
 - Week 7 [slides](IteratingI.pdf)  
 
 ### Assignments for next week  
-- Mon: Lead discussion of talk topics   
+- Tues: Lead discussion of talk topics   
 	- **Debugging:** Braden, Amanda, Ryan B., Jason   
 		- [Jenny Bryan: Object of type ‘closure’ is not subsettable](https://www.youtube.com/watch?v=vgYS-F8opgE)    
 	- **Tidyverse lifecycles:** Roz, Ryan E., Erik, Sam, Hannah 
@@ -34,7 +34,7 @@ Writing functions and loops
 		- [Rob Hyndman rstudio: How Rmarkdown changed my life](https://www.youtube.com/watch?v=_D-ux3MqGug)  
 		- [Yihui Xie: One R Markdown Document, Fourteen Demos](https://www.youtube.com/watch?v=qLEkUjxk7e8)   
 
-- [Midterm homework, due March 24 at 11:59pm]()    
+- [Midterm homework, due March 24 at 11:59pm](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_midterm.Rmd)    
 
 <br><br>
 
