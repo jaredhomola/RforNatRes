@@ -16,6 +16,18 @@
 Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this website. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, there will be an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
 
 <br><br>
+## Week 8: Iterating II 
+### Topics 
+Interation using the purrr package
+
+### Resources for this week's topics  
+- [Rebecca Barter's Learn to Purrr](https://www.rebeccabarter.com/blog/2019-08-19_purrr/)   
+- [purrr cheat sheet](https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_purrr.pdf)   
+- [Week 8 slides](Wk8_purrr.pdf)      
+
+### Assignments for after spring break (From guest lecturer, Dr. Bobby Davis)  
+- Tues: Read [Franzblau and Chung](https://doi.org/10.1016/j.jhsa.2011.12.041), [Annesley](https://academic.oup.com/clinchem/article/56/8/1229/5622228?login=false), and [Woolston](https://www.nature.com/articles/nature.2014.15999)    
+<br><br>
 
 ## Week 7: Iterating I  
 ### Topics   
