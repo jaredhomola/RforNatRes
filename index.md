@@ -25,8 +25,10 @@ Interation using the purrr package
 - [purrr cheat sheet](https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_purrr.pdf)   
 - [Week 8 slides](Wk8_purrr.pdf)      
 
-### Assignments for after spring break (From guest lecturer, Dr. Bobby Davis)  
-- Tues: Read [Franzblau and Chung](https://doi.org/10.1016/j.jhsa.2011.12.041), [Annesley](https://academic.oup.com/clinchem/article/56/8/1229/5622228?login=false), and [Woolston](https://www.nature.com/articles/nature.2014.15999)    
+### Assignments for after spring break    
+- Tues: Read [Franzblau and Chung](https://doi.org/10.1016/j.jhsa.2011.12.041)  
+- Tues: Read [Annesley](https://academic.oup.com/clinchem/article/56/8/1229/5622228?login=false)  
+- Tues: Read [Woolston](https://www.nature.com/articles/nature.2014.15999)    
 <br><br>
 
 ## Week 7: Iterating I  
