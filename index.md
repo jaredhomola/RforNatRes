@@ -16,6 +16,25 @@
 Due to copyright protections enforced by journals, I cannot directly share PDFs of journal articles through this website. If you are on campus or logged into your UWSP library account from home, you should have no problem accessing the literature through the links provided below. Once you access the articles through the journals' websites, there will be an option to save the file as a pdf that you can print or save to read offline. If you are having an issue accessing any of the literature linked below, email me and I will help you resolve the problem.  
 
 <br><br>
+## Week 9: Data Visualization I  
+### Topics  
+Intro to ggplot, basic plot types  
+
+### Resources for this week's topics  
+- [Week 9 slides](wk9_Intro_to_ggplot.pdf)  
+- [ggplot2 cheat sheet](https://rstudio.github.io/cheatsheets/data-visualization.pdf)  
+- [The R graph gallery](https://r-graph-gallery.com/ggplot2-package.html)  
+- [Textbook for ggplot2](https://ggplot2-book.org/index.html)  
+- [Color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)  
+- [R color names](http://applied-r.com/r-color-tables/)  
+
+### Assignments for next week
+- Tues: A reading from Edward Tufte will be distributed via email  
+- Tues: Read Tufte's [Wikipedia page](https://en.wikipedia.org/wiki/Edward_Tufte)  
+- Tues: Wickham's [A Layered Grammar of Graphics](https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) (n.b. Some of the ggplot2 syntax in this article is deprecated, but the concepts hold)  
+- Thurs: [Homework assignment 8]()  
+
+<br><br>
 ## Week 8: Iterating II 
 ### Topics 
 Interation using the purrr package
