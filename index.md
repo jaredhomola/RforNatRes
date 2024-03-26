@@ -26,7 +26,7 @@ Intro to ggplot, basic plot types
 - [The R graph gallery](https://r-graph-gallery.com/ggplot2-package.html)  
 - [Textbook for ggplot2](https://ggplot2-book.org/index.html)  
 - [Color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)  
-- [R color names](http://applied-r.com/r-color-tables/)  
+- [R color names](https://www.datanovia.com/en/blog/awesome-list-of-657-r-color-names/)  
 
 ### Assignments for next week
 - Tues: A reading from Edward Tufte will be distributed via email  
