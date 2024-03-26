@@ -22,6 +22,7 @@ Intro to ggplot, basic plot types
 
 ### Resources for this week's topics  
 - [Week 9 slides](wk9_Intro_to_ggplot.pdf)  
+- [Though, Question, Epiphany for week 8 readings](https://docs.google.com/document/d/19RvhIesIYPpV5SdKyPVWdZiP-oqNqemTSeWDDHqk5Ak/edit?usp=sharing)  
 - [ggplot2 cheat sheet](https://rstudio.github.io/cheatsheets/data-visualization.pdf)  
 - [The R graph gallery](https://r-graph-gallery.com/ggplot2-package.html)  
 - [Textbook for ggplot2](https://ggplot2-book.org/index.html)  
