@@ -33,7 +33,7 @@ Intro to ggplot, basic plot types
 - Tues: A reading from Edward Tufte will be distributed via email  
 - Tues: Read Tufte's [Wikipedia page](https://en.wikipedia.org/wiki/Edward_Tufte)  
 - Tues: Wickham's [A Layered Grammar of Graphics](https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) (n.b. Some of the ggplot2 syntax in this article is deprecated, but the concepts hold)  
-- Thurs: [Homework assignment 8]()  
+- Thurs: [Homework assignment 8](https://raw.githubusercontent.com/jaredhomola/RforNatRes/gh-pages/lastName_Homework8.Rmd)  
 
 <br><br>
 ## Week 8: Iterating II 

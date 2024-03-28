@@ -1,0 +1,50 @@
+---
+title: "Homework 8"
+author: "firstName lastName"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document: default
+  pdf_document: default
+---
+  
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+### Set up you workspace with the necessary data and packages
+list.of.packages <- c("remotes", "tidyverse" , "fivethirtyeight") ## Vector of required packages for the assignment
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[, "Package"])] ## Check to see if these packages are installed
+if(length(new.packages))
+  install.packages(new.packages) ## Install the packages that aren't installed
+#library(remotes)
+
+#install_github("lter/lterdatasampler", force = FALSE) ## Install a package that isn't on CRAN
+library(tidyverse)
+library(fivethirtyeight)
+```
+
+
+REMINDERS:  
+- Your plots are expected to be publication quality to earn full credit.  
+- Your plots should have a caption in the knitted html as instructed during lecture.    
+- Unless otherwise requested, be sure to set up your R Markdown document to display only the resulting figures or tables and the code used to generate them. No errors or messages should print.    
+- Tibbles appearing in your knitted document should be presented using kableExtra.  
+- Remember to add your name in the YAML header.  
+
+
+**Question 1**. For this week, we're going to change things up and experiment with data outside of a natural resources context. This assignment uses data that have been the basis of various FiveThirtyEight (https://abcnews.go.com/538) articles that I also encourage you to review for data visualization inspiration.  
+
+The fivethirtyeight::college_all_ages dataset provides information on employment outcomes for numerous college majors. Generate a horizontal boxplot showing the unemployment rate for each major_category. These data are the basis for this FiveThirtyEight article: https://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/  
+```{r}
+# Answer 1a
+
+```
+
+**Question 2**. Use the fivethirtyeight::fandango to generate a boxplot of the IMDB, Metacritic, and Rotten Tomatoes ratings for movies separated by year with individual boxes for each rating source. You'll need to standardize the IMDB 1-10 scale to the 1-100 scales of Metacritic and Rotten Tomatoes. This will require some data wrangling prior to plotting. These data are the basis for this FiveThirtyEight article: https://fivethirtyeight.com/features/fandango-movies-ratings/  
+```{r}
+# Answer 2
+
+```
+
+**Question 3**. Use the fivethirtyeight::hist_ncaa_bball_casts dataset to generate a percent stacked barchart (hint: https://r-graph-gallery.com/48-grouped-barplot-with-ggplot2) that shows the proportion of wins versus losses for "favorite" (i.e., teams with greater odds) by tournament. Data are  based on a FiveThirtyEight predictive model that tries to forecast wins. The model's estimated probability of the favorite to win is in the "favorite_prob" column and whether that outcome occurred or not is in the "favorite_win" column. This will require some data wrangling prior to plotting. These data are the basis for this FiveThirtyEight article: https://fivethirtyeight.com/features/the-ncaa-bracket-checking-our-work/           
+```{r fig.align = 'center', fig.cap = 'Figure 3. Upset probability for Mens NCAA baseketball tournament based on FiveThirtyEight forecasts', fig.height=4, fig.width=4}
+# Answer 3
+
+```
